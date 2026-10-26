@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolas_dm",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "e17842e6-d191-423b-a24e-e967c92bac14",
+    "collected_at": "2026-10-26T02:39:23-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 1,
+      "records_total": 1,
+      "skipped_duplicate": 51
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114378565965721850",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114378565965721850",
+      "post_id": "2114365842750308659",
+      "parent_comment_id": "2114365842750308659",
+      "thread_root_id": "2114365842750308659",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "xandaovaitpegar",
+        "username": "xandaovaitpegar",
+        "profile_url": null
+      },
+      "text": "O MAIOR PERIGO PARA O POVO BRASILEIRO ATENDE PELA ALCUNHA DE NIKOLAS FERREIRA..",
+      "created_at": "2026-10-25T15:28:00+00:00",
+      "collected_at": "2026-10-26T02:39:23-03:00",
+      "parent_post_url": "https://nitter.mie.foundation/xandaovaitpegar/status/2114378565965721850#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "e17842e6-d191-423b-a24e-e967c92bac14",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114378565965721850",
+        "text": "O MAIOR PERIGO PARA O POVO BRASILEIRO ATENDE PELA ALCUNHA DE NIKOLAS FERREIRA..",
+        "author_username": "xandaovaitpegar",
+        "author_name": "xandaovaitpegar",
+        "created_at": "2026-10-25T15:28:00+00:00",
+        "permalink": "https://nitter.mie.foundation/xandaovaitpegar/status/2114378565965721850#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114365842750308659",
+        "parent_comment_id": "2114365842750308659",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 79,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
