@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolasferreira",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "1ec2b319-20b6-4b03-954a-83a311dd7cf4",
+    "collected_at": "2026-10-26T19:51:03-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 1,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nikolas_ferreira_25_26_out_20261025"
+  },
+  "posts": [],
+  "comments": []
+}
