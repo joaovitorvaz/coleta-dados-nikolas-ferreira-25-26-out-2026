@@ -1,0 +1,803 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolas_dm",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+    "collected_at": "2026-10-26T00:33:20-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 12,
+      "records_total": 12,
+      "skipped_duplicate": 425
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114547027266646162",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114547027266646162",
+      "post_id": "2114542235731796011",
+      "parent_comment_id": "2114542235731796011",
+      "thread_root_id": "2114542235731796011",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "samiabomfim",
+        "username": "samiabomfim",
+        "profile_url": null
+      },
+      "text": "A chance era uma só e o povo brasileiro se mobilizou e venceu.",
+      "created_at": "2026-10-26T02:37:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/samiabomfim/status/2114547027266646162#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114547027266646162",
+        "text": "A chance era uma só e o povo brasileiro se mobilizou e venceu.",
+        "author_username": "samiabomfim",
+        "author_name": "samiabomfim",
+        "created_at": "2026-10-26T02:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/samiabomfim/status/2114547027266646162#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114542235731796011",
+        "parent_comment_id": "2114542235731796011",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 62,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114546052254806231",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114546052254806231",
+      "post_id": "2114540768241062087",
+      "parent_comment_id": "2114540768241062087",
+      "thread_root_id": "2114540768241062087",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "rickazzevedo",
+        "username": "rickazzevedo",
+        "profile_url": null
+      },
+      "text": "Problema seu 😂",
+      "created_at": "2026-10-26T02:33:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/rickazzevedo/status/2114546052254806231#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114546052254806231",
+        "text": "Problema seu 😂",
+        "author_username": "rickazzevedo",
+        "author_name": "rickazzevedo",
+        "created_at": "2026-10-26T02:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rickazzevedo/status/2114546052254806231#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114540768241062087",
+        "parent_comment_id": "2114540768241062087",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 14,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114504265746329877",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114504265746329877",
+      "post_id": "2114494894165406066",
+      "parent_comment_id": "2114494894165406066",
+      "thread_root_id": "2114494894165406066",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "ademaravilha",
+        "username": "ademaravilha",
+        "profile_url": null
+      },
+      "text": "Os votos do sudeste",
+      "created_at": "2026-10-25T23:47:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/ademaravilha/status/2114504265746329877#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114504265746329877",
+        "text": "Os votos do sudeste",
+        "author_username": "ademaravilha",
+        "author_name": "ademaravilha",
+        "created_at": "2026-10-25T23:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ademaravilha/status/2114504265746329877#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114494894165406066",
+        "parent_comment_id": "2114494894165406066",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 19,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114508090007859597",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114508090007859597",
+      "post_id": "2114493557675323780",
+      "parent_comment_id": "2114493557675323780",
+      "thread_root_id": "2114493557675323780",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "fernandobpsilva",
+        "username": "fernandobpsilva",
+        "profile_url": null
+      },
+      "text": "",
+      "created_at": "2026-10-26T00:03:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/fernandobpsilva/status/2114508090007859597#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114508090007859597",
+        "text": "",
+        "author_username": "fernandobpsilva",
+        "author_name": "fernandobpsilva",
+        "created_at": "2026-10-26T00:03:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fernandobpsilva/status/2114508090007859597#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114493557675323780",
+        "parent_comment_id": "2114493557675323780",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 0,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114521926236307587",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114521926236307587",
+      "post_id": "2114490755381350725",
+      "parent_comment_id": "2114490755381350725",
+      "thread_root_id": "2114490755381350725",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "rickazzevedo",
+        "username": "rickazzevedo",
+        "profile_url": null
+      },
+      "text": "Oi, rapariga! Me chamou?",
+      "created_at": "2026-10-26T00:58:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/rickazzevedo/status/2114521926236307587#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114521926236307587",
+        "text": "Oi, rapariga! Me chamou?",
+        "author_username": "rickazzevedo",
+        "author_name": "rickazzevedo",
+        "created_at": "2026-10-26T00:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rickazzevedo/status/2114521926236307587#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114490755381350725",
+        "parent_comment_id": "2114490755381350725",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 24,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114516324013445317",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114516324013445317",
+      "post_id": "2114484684495126750",
+      "parent_comment_id": "2114484684495126750",
+      "thread_root_id": "2114484684495126750",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "RCDS91",
+        "username": "RCDS91",
+        "profile_url": null
+      },
+      "text": "",
+      "created_at": "2026-10-26T00:35:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/RCDS91/status/2114516324013445317#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114516324013445317",
+        "text": "",
+        "author_username": "RCDS91",
+        "author_name": "RCDS91",
+        "created_at": "2026-10-26T00:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RCDS91/status/2114516324013445317#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114484684495126750",
+        "parent_comment_id": "2114484684495126750",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 0,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114518449011740790",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114518449011740790",
+      "post_id": "2114467537442226629",
+      "parent_comment_id": "2114467537442226629",
+      "thread_root_id": "2114467537442226629",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "papuda2242846",
+        "username": "papuda2242846",
+        "profile_url": null
+      },
+      "text": "Perdeu mané, com META e tudo!",
+      "created_at": "2026-10-26T00:44:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/papuda2242846/status/2114518449011740790#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114518449011740790",
+        "text": "Perdeu mané, com META e tudo!",
+        "author_username": "papuda2242846",
+        "author_name": "papuda2242846",
+        "created_at": "2026-10-26T00:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/papuda2242846/status/2114518449011740790#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114467537442226629",
+        "parent_comment_id": "2114467537442226629",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 29,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114416501881217316",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114416501881217316",
+      "post_id": "2114407813686464910",
+      "parent_comment_id": "2114407813686464910",
+      "thread_root_id": "2114407813686464910",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "diegopadilha",
+        "username": "diegopadilha",
+        "profile_url": null
+      },
+      "text": "Você jamais estaria  no mesmo lado de Jesus.",
+      "created_at": "2026-10-25T17:59:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/diegopadilha/status/2114416501881217316#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114416501881217316",
+        "text": "Você jamais estaria  no mesmo lado de Jesus.",
+        "author_username": "diegopadilha",
+        "author_name": "diegopadilha",
+        "created_at": "2026-10-25T17:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/diegopadilha/status/2114416501881217316#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114407813686464910",
+        "parent_comment_id": "2114407813686464910",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 44,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114512477849305589",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114512477849305589",
+      "post_id": "2114373531932742064",
+      "parent_comment_id": "2114373531932742064",
+      "thread_root_id": "2114373531932742064",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "MaahTomasini",
+        "username": "MaahTomasini",
+        "profile_url": null
+      },
+      "text": "Olha essas carinhas aqui tbem kkkk",
+      "created_at": "2026-10-26T00:20:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/MaahTomasini/status/2114512477849305589#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114512477849305589",
+        "text": "Olha essas carinhas aqui tbem kkkk",
+        "author_username": "MaahTomasini",
+        "author_name": "MaahTomasini",
+        "created_at": "2026-10-26T00:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MaahTomasini/status/2114512477849305589#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114373531932742064",
+        "parent_comment_id": "2114373531932742064",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 34,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114376654126534832",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114376654126534832",
+      "post_id": "2114371200491106670",
+      "parent_comment_id": "2114371200491106670",
+      "thread_root_id": "2114371200491106670",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "siloliveira810",
+        "username": "siloliveira810",
+        "profile_url": null
+      },
+      "text": "",
+      "created_at": "2026-10-25T15:20:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/siloliveira810/status/2114376654126534832#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114376654126534832",
+        "text": "",
+        "author_username": "siloliveira810",
+        "author_name": "siloliveira810",
+        "created_at": "2026-10-25T15:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/siloliveira810/status/2114376654126534832#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114371200491106670",
+        "parent_comment_id": "2114371200491106670",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 0,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114378593287447013",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114378593287447013",
+      "post_id": "2114366270816612471",
+      "parent_comment_id": "2114366270816612471",
+      "thread_root_id": "2114366270816612471",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "LeopoldinaDom",
+        "username": "LeopoldinaDom",
+        "profile_url": null
+      },
+      "text": "Os anjos incompreendidos da esquerda",
+      "created_at": "2026-10-25T15:28:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/LeopoldinaDom/status/2114378593287447013#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114378593287447013",
+        "text": "Os anjos incompreendidos da esquerda",
+        "author_username": "LeopoldinaDom",
+        "author_name": "LeopoldinaDom",
+        "created_at": "2026-10-25T15:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LeopoldinaDom/status/2114378593287447013#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114366270816612471",
+        "parent_comment_id": "2114366270816612471",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 36,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114367578395001052",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114367578395001052",
+      "post_id": "2114361595300078063",
+      "parent_comment_id": "2114361595300078063",
+      "thread_root_id": "2114361595300078063",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "SilvioJacob",
+        "username": "SilvioJacob",
+        "profile_url": null
+      },
+      "text": "",
+      "created_at": "2026-10-25T14:44:00+00:00",
+      "collected_at": "2026-10-26T00:33:20-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/SilvioJacob/status/2114367578395001052#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f67e3170-ca41-4b5f-82e5-d23cb4def17c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114367578395001052",
+        "text": "",
+        "author_username": "SilvioJacob",
+        "author_name": "SilvioJacob",
+        "created_at": "2026-10-25T14:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/SilvioJacob/status/2114367578395001052#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114361595300078063",
+        "parent_comment_id": "2114361595300078063",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 0,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
