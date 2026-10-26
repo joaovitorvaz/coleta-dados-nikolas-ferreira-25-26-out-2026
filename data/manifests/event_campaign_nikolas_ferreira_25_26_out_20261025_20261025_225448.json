@@ -1,0 +1,14 @@
+{
+  "event_id": "b0145caf-5ec5-4acc-9f63-0a41fb5d8b1c",
+  "event_type": "campaign_nikolas_ferreira_25_26_out_20261025",
+  "started_at": "2026-10-25T22:33:29-03:00",
+  "finished_at": "2026-10-25T22:54:48-03:00",
+  "status": "success",
+  "since": "2026-10-25",
+  "until": "2026-10-27",
+  "records_written": 0,
+  "records_skipped_duplicate": 13,
+  "json_files_written": 1,
+  "errors": [],
+  "twitee_trends": []
+}
