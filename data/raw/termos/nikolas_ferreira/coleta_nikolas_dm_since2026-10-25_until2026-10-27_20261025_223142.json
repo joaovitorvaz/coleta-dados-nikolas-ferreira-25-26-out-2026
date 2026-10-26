@@ -1,0 +1,799 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolas_dm",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+    "collected_at": "2026-10-25T22:31:42-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 13,
+      "comments": 0,
+      "records_total": 13,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114494894165406066",
+            "text": "Esperando os votos do Sudeste entrar. Nada como um dia após o outro.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T23:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114494894165406066#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 35,
+              "retweet_count": 4,
+              "quote_count": 56
+            }
+          },
+          {
+            "id": "2114493557675323780",
+            "text": "O Brasil vai vencer.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T23:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114493557675323780#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 20,
+              "retweet_count": 5,
+              "quote_count": 53
+            }
+          },
+          {
+            "id": "2114490755381350725",
+            "text": "Volta aqui quando perder.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T22:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114490755381350725#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 9,
+              "retweet_count": 648,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114484684495126750",
+            "text": "Quando abrir as urnas de São Paulo… Agora eles vão sentir o contrário 👍🏻",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T22:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114484684495126750#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 4,
+              "retweet_count": 3,
+              "quote_count": 50
+            }
+          },
+          {
+            "id": "2114468468250546285",
+            "text": "Mais um impeachment pra ano que vem.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T21:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114468468250546285#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 9,
+              "retweet_count": 9,
+              "quote_count": 100
+            }
+          },
+          {
+            "id": "2114468206018695411",
+            "text": "Ou a gente ganha. Ou a gente ganha. Tá avisado.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T21:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114468206018695411#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 23,
+              "retweet_count": 7,
+              "quote_count": 72
+            }
+          },
+          {
+            "id": "2114467537442226629",
+            "text": "Isso é urgente mesmo.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T21:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114467537442226629#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 3,
+              "retweet_count": 20,
+              "quote_count": 99
+            }
+          },
+          {
+            "id": "2114426637877989788",
+            "text": "Achei que pelo menos iam esperar acabar a apuração pra começar chorar.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T18:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114426637877989788#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 2,
+              "retweet_count": 6,
+              "quote_count": 73
+            }
+          },
+          {
+            "id": "2114407813686464910",
+            "text": "Esse é e sempre foi o meu maior desejo.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T17:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114407813686464910#m",
+            "metrics": {
+              "like_count": 582,
+              "reply_count": 1,
+              "retweet_count": 7,
+              "quote_count": 39
+            }
+          },
+          {
+            "id": "2114373531932742064",
+            "text": "carinha de quem já tá pensando na mala que vai ter que arrumar",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T15:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114373531932742064#m",
+            "metrics": {
+              "like_count": 270,
+              "reply_count": 1,
+              "retweet_count": 3,
+              "quote_count": 26
+            }
+          },
+          {
+            "id": "2114371200491106670",
+            "text": "Acorda Brasil finalizou dia 25.01… e hoje dia é dia… Deus é perfeito.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T14:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114371200491106670#m",
+            "metrics": {
+              "like_count": 218,
+              "reply_count": 220,
+              "retweet_count": 2,
+              "quote_count": 18
+            }
+          },
+          {
+            "id": "2114366270816612471",
+            "text": "Ah que isso kkkkkkkk",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T14:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114366270816612471#m",
+            "metrics": {
+              "like_count": 50,
+              "reply_count": 37,
+              "retweet_count": 109,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114361595300078063",
+            "text": "Dito isso… 🇧🇷",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T14:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114361595300078063#m",
+            "metrics": {
+              "like_count": 372,
+              "reply_count": 748,
+              "retweet_count": 5,
+              "quote_count": 67
+            }
+          },
+          {
+            "id": "2114182251189768541",
+            "text": "“Dê o primeiro passo com fé. Você não precisa ver a escada inteira, apenas o primeiro degrau.”\n\n25.01.26 - Acorda Brasil.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T02:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114182251189768541#m",
+            "metrics": {
+              "like_count": 200,
+              "reply_count": 323,
+              "retweet_count": 3,
+              "quote_count": 21
+            }
+          },
+          {
+            "id": "2114152668218249686",
+            "text": "Faremos justiça amanhã, presidente. Obrigado por ter criado um Brasil antes e depois de você.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T00:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114152668218249686#m",
+            "metrics": {
+              "like_count": 912,
+              "reply_count": 3,
+              "retweet_count": 14,
+              "quote_count": 95
+            }
+          },
+          {
+            "id": "2114137629210067451",
+            "text": "Fiz tudo que pude. \nAgora está em suas mãos, Senhor.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-24T23:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114137629210067451#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 7,
+              "retweet_count": 21,
+              "quote_count": 157
+            }
+          },
+          {
+            "id": "2114129478951506216",
+            "text": "69 dias. 80 cidades. E você cuidando da nossa casa enquanto isso. Obrigado, amor... te amo até o céu 💛",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-24T22:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114129478951506216#m",
+            "metrics": {
+              "like_count": 533,
+              "reply_count": 928,
+              "retweet_count": 6,
+              "quote_count": 73
+            }
+          },
+          {
+            "id": "2114126027936915956",
+            "text": "Se precisar a gente escala também. 😂\n\nMuito obrigado, Rio de Janeiro!",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-24T22:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114126027936915956#m",
+            "metrics": {
+              "like_count": 176,
+              "reply_count": 223,
+              "retweet_count": 3,
+              "quote_count": 21
+            }
+          },
+          {
+            "id": "2114120584892199117",
+            "text": "69 dias. 80 cidades. \"O vento que apaga a vela é o mesmo que alimenta o fogo\".",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-24T22:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114120584892199117#m",
+            "metrics": {
+              "like_count": 280,
+              "reply_count": 909,
+              "retweet_count": 5,
+              "quote_count": 36
+            }
+          },
+          {
+            "id": "2114117306511151114",
+            "text": "Meu braço tá destruído de tanto dar tchau pro pt kkkkkkk guardar força pro último amanhã!!!",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-24T22:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114117306511151114#m",
+            "metrics": {
+              "like_count": 346,
+              "reply_count": 497,
+              "retweet_count": 3,
+              "quote_count": 41
+            }
+          },
+          {
+            "id": "2114130498213609627",
+            "text": "Essa foto tem um peso e um significado muito grande em toda a campanha política do Nikolas, seja para deputado federal, seja como principal cabo eleitoral do Flavio no 1° e 2° turno. \nEssa foto foi durante a caminhada até Brasília pela libertação dos presos do dia 8 de janeiro e do Jair Bolsonaro. Foi o start, muitos riram, outros tentaram o fazer desistir, muitos outros tentaram para-lo, pessoas dentro da própria direita, mas ele conseguiu vence-las, conseguiu ser após o Jair Bolsonaro, a maior liderança política que já surgiu dentro da direita.\nSe vencermos amanha, e venceremos, muito se deve a esse jovem de 30 anos de idade que não é mais uma promessa, é uma realidade!",
+            "author_username": "ItaloMarsinho",
+            "author_name": "ItaloMarsinho",
+            "created_at": "2026-10-24T23:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ItaloMarsinho/status/2114130498213609627#m",
+            "metrics": {
+              "like_count": 59,
+              "reply_count": 77,
+              "retweet_count": 565,
+              "quote_count": 5
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 9,
+          "instance_used": "https://nitter.xitter.cc"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nikolas_ferreira_25_26_out_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114494894165406066",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114494894165406066",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114494894165406066",
+        "text": "Esperando os votos do Sudeste entrar. Nada como um dia após o outro.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T23:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114494894165406066#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 35,
+          "retweet_count": 4,
+          "quote_count": 56
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114493557675323780",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114493557675323780",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114493557675323780",
+        "text": "O Brasil vai vencer.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T23:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114493557675323780#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 20,
+          "retweet_count": 5,
+          "quote_count": 53
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114490755381350725",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114490755381350725",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114490755381350725",
+        "text": "Volta aqui quando perder.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T22:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114490755381350725#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 9,
+          "retweet_count": 648,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114484684495126750",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114484684495126750",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114484684495126750",
+        "text": "Quando abrir as urnas de São Paulo… Agora eles vão sentir o contrário 👍🏻",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T22:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114484684495126750#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3,
+          "quote_count": 50
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114468468250546285",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114468468250546285",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114468468250546285",
+        "text": "Mais um impeachment pra ano que vem.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T21:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114468468250546285#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 9,
+          "retweet_count": 9,
+          "quote_count": 100
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114468206018695411",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114468206018695411",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114468206018695411",
+        "text": "Ou a gente ganha. Ou a gente ganha. Tá avisado.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T21:24:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114468206018695411#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 23,
+          "retweet_count": 7,
+          "quote_count": 72
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114467537442226629",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114467537442226629",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114467537442226629",
+        "text": "Isso é urgente mesmo.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T21:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114467537442226629#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 3,
+          "retweet_count": 20,
+          "quote_count": 99
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114426637877989788",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114426637877989788",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114426637877989788",
+        "text": "Achei que pelo menos iam esperar acabar a apuração pra começar chorar.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T18:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114426637877989788#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 2,
+          "retweet_count": 6,
+          "quote_count": 73
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114407813686464910",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114407813686464910",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114407813686464910",
+        "text": "Esse é e sempre foi o meu maior desejo.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T17:24:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114407813686464910#m",
+        "metrics": {
+          "like_count": 582,
+          "reply_count": 1,
+          "retweet_count": 7,
+          "quote_count": 39
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114373531932742064",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114373531932742064",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114373531932742064",
+        "text": "carinha de quem já tá pensando na mala que vai ter que arrumar",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T15:08:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114373531932742064#m",
+        "metrics": {
+          "like_count": 270,
+          "reply_count": 1,
+          "retweet_count": 3,
+          "quote_count": 26
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114371200491106670",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114371200491106670",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114371200491106670",
+        "text": "Acorda Brasil finalizou dia 25.01… e hoje dia é dia… Deus é perfeito.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T14:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114371200491106670#m",
+        "metrics": {
+          "like_count": 218,
+          "reply_count": 220,
+          "retweet_count": 2,
+          "quote_count": 18
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114366270816612471",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114366270816612471",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114366270816612471",
+        "text": "Ah que isso kkkkkkkk",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T14:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114366270816612471#m",
+        "metrics": {
+          "like_count": 50,
+          "reply_count": 37,
+          "retweet_count": 109,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114361595300078063",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114361595300078063",
+      "collected_at": "2026-10-25T22:31:42-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "9d6658bc-bb22-42bf-82c3-2ec7cac3809a",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114361595300078063",
+        "text": "Dito isso… 🇧🇷",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-25T14:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114361595300078063#m",
+        "metrics": {
+          "like_count": 372,
+          "reply_count": 748,
+          "retweet_count": 5,
+          "quote_count": 67
+        }
+      }
+    }
+  ],
+  "comments": []
+}
