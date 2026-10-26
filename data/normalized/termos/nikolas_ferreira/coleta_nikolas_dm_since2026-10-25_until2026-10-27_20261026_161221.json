@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolas_dm",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "ed05e4a6-496d-4381-8542-e4c69d63ad60",
+    "collected_at": "2026-10-26T16:12:21-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 1,
+      "records_total": 1,
+      "skipped_duplicate": 580
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114775059957264804",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114775059957264804",
+      "post_id": "2114756935354290650",
+      "parent_comment_id": "2114756935354290650",
+      "thread_root_id": "2114756935354290650",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "cortezpsol",
+        "username": "cortezpsol",
+        "profile_url": null
+      },
+      "text": "Já desistiu do golpe? Kkkkkkkkk",
+      "created_at": "2026-10-26T17:43:00+00:00",
+      "collected_at": "2026-10-26T16:12:21-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/cortezpsol/status/2114775059957264804#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "ed05e4a6-496d-4381-8542-e4c69d63ad60",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114775059957264804",
+        "text": "Já desistiu do golpe? Kkkkkkkkk",
+        "author_username": "cortezpsol",
+        "author_name": "cortezpsol",
+        "created_at": "2026-10-26T17:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/cortezpsol/status/2114775059957264804#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114756935354290650",
+        "parent_comment_id": "2114756935354290650",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 31,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
