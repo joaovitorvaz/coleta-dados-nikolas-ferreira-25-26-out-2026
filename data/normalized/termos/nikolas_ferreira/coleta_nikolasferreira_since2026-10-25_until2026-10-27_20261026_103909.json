@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolasferreira",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "d2c856d3-c04a-4b96-86c2-b1a7d55e545c",
+    "collected_at": "2026-10-26T10:39:09-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [],
+  "comments": []
+}
