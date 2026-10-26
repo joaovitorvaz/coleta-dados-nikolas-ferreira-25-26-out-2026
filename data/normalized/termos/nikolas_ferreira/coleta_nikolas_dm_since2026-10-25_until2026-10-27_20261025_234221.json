@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolas_dm",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "49ffefaa-3781-4b4c-a752-6fcca5dbcf22",
+    "collected_at": "2026-10-25T23:42:21-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 13
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114542235731796011",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114542235731796011",
+      "parent_post_id": null,
+      "thread_root_id": "2114542235731796011",
+      "author": {
+        "platform_id": null,
+        "display_name": "nikolas_dm",
+        "username": "nikolas_dm",
+        "profile_url": "https://x.com/nikolas_dm"
+      },
+      "text": ">11 milhões de votos a mais\n> crescimento em TODOS OS ESTADOS\n>Redução na abstenção não explica o fenômeno\n> todos os votos dos outros candidatos teriam que ir pro Lula. Qual a chance?",
+      "created_at": "2026-10-26T02:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:42:21-03:00",
+      "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114542235731796011#m",
+      "metrics": {
+        "like_count": 72,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "quote_count": 8
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "pl"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "49ffefaa-3781-4b4c-a752-6fcca5dbcf22",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114542235731796011",
+        "text": ">11 milhões de votos a mais\n> crescimento em TODOS OS ESTADOS\n>Redução na abstenção não explica o fenômeno\n> todos os votos dos outros candidatos teriam que ir pro Lula. Qual a chance?",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-26T02:18:00+00:00",
+        "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114542235731796011#m",
+        "metrics": {
+          "like_count": 72,
+          "reply_count": 1,
+          "retweet_count": 1,
+          "quote_count": 8
+        }
+      },
+      "normalized": {
+        "text_length": 184,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114540768241062087",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114540768241062087",
+      "parent_post_id": null,
+      "thread_root_id": "2114540768241062087",
+      "author": {
+        "platform_id": null,
+        "display_name": "nikolas_dm",
+        "username": "nikolas_dm",
+        "profile_url": "https://x.com/nikolas_dm"
+      },
+      "text": "Mudar a regra do jogo no meio dele não é democrático. Que tudo seja esclarecido. Até lá, Lula não é meu presidente.",
+      "created_at": "2026-10-26T02:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:42:21-03:00",
+      "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114540768241062087#m",
+      "metrics": {
+        "like_count": 125,
+        "reply_count": 2,
+        "retweet_count": 1,
+        "quote_count": 10
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "49ffefaa-3781-4b4c-a752-6fcca5dbcf22",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114540768241062087",
+        "text": "Mudar a regra do jogo no meio dele não é democrático. Que tudo seja esclarecido. Até lá, Lula não é meu presidente.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-26T02:13:00+00:00",
+        "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114540768241062087#m",
+        "metrics": {
+          "like_count": 125,
+          "reply_count": 2,
+          "retweet_count": 1,
+          "quote_count": 10
+        }
+      },
+      "normalized": {
+        "text_length": 115,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114365842750308659",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114365842750308659",
+      "parent_post_id": null,
+      "thread_root_id": "2114365842750308659",
+      "author": {
+        "platform_id": null,
+        "display_name": "Metropoles",
+        "username": "Metropoles",
+        "profile_url": "https://x.com/Metropoles"
+      },
+      "text": "➡️ Nikolas vota em BH e diz que não cogita derrota de Flávio: \"Será 54% a 46%\"",
+      "created_at": "2026-10-25T14:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:42:21-03:00",
+      "permalink": "https://nitter.meowing.monster/Metropoles/status/2114365842750308659#m",
+      "metrics": {
+        "like_count": 684,
+        "reply_count": 341,
+        "retweet_count": 2,
+        "quote_count": 14
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "49ffefaa-3781-4b4c-a752-6fcca5dbcf22",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114365842750308659",
+        "text": "➡️ Nikolas vota em BH e diz que não cogita derrota de Flávio: \"Será 54% a 46%\"",
+        "author_username": "Metropoles",
+        "author_name": "Metropoles",
+        "created_at": "2026-10-25T14:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Metropoles/status/2114365842750308659#m",
+        "metrics": {
+          "like_count": 684,
+          "reply_count": 341,
+          "retweet_count": 2,
+          "quote_count": 14
+        }
+      },
+      "normalized": {
+        "text_length": 78,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
