@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolas_dm",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "c604090f-8e1c-4b73-93b1-f8210d892bbb",
+    "collected_at": "2026-10-26T01:26:24-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 3,
+      "records_total": 3,
+      "skipped_duplicate": 369
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114511464962707751",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114511464962707751",
+      "post_id": "2114468468250546285",
+      "parent_comment_id": "2114468468250546285",
+      "thread_root_id": "2114468468250546285",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "Sserra8219",
+        "username": "Sserra8219",
+        "profile_url": null
+      },
+      "text": "Chora otário. Respeita o MAIOR de todos! É Lula porra",
+      "created_at": "2026-10-26T00:16:00+00:00",
+      "collected_at": "2026-10-26T01:26:24-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/Sserra8219/status/2114511464962707751#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "c604090f-8e1c-4b73-93b1-f8210d892bbb",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114511464962707751",
+        "text": "Chora otário. Respeita o MAIOR de todos! É Lula porra",
+        "author_username": "Sserra8219",
+        "author_name": "Sserra8219",
+        "created_at": "2026-10-26T00:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Sserra8219/status/2114511464962707751#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114468468250546285",
+        "parent_comment_id": "2114468468250546285",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 53,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114521926236307587",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114521926236307587",
+      "post_id": "2114468206018695411",
+      "parent_comment_id": "2114468206018695411",
+      "thread_root_id": "2114468206018695411",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "rickazzevedo",
+        "username": "rickazzevedo",
+        "profile_url": null
+      },
+      "text": "Oi, rapariga! Me chamou?",
+      "created_at": "2026-10-26T00:58:00+00:00",
+      "collected_at": "2026-10-26T01:26:24-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/rickazzevedo/status/2114521926236307587#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "c604090f-8e1c-4b73-93b1-f8210d892bbb",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114521926236307587",
+        "text": "Oi, rapariga! Me chamou?",
+        "author_username": "rickazzevedo",
+        "author_name": "rickazzevedo",
+        "created_at": "2026-10-26T00:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rickazzevedo/status/2114521926236307587#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114468206018695411",
+        "parent_comment_id": "2114468206018695411",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 24,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114517237570658756",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114517237570658756",
+      "post_id": "2114426637877989788",
+      "parent_comment_id": "2114426637877989788",
+      "thread_root_id": "2114426637877989788",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "Aninhasincera01",
+        "username": "Aninhasincera01",
+        "profile_url": null
+      },
+      "text": "Sumiu deputado… está planejando o próximo 8 de janeiro?",
+      "created_at": "2026-10-26T00:39:00+00:00",
+      "collected_at": "2026-10-26T01:26:24-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/Aninhasincera01/status/2114517237570658756#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "pl"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "c604090f-8e1c-4b73-93b1-f8210d892bbb",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114517237570658756",
+        "text": "Sumiu deputado… está planejando o próximo 8 de janeiro?",
+        "author_username": "Aninhasincera01",
+        "author_name": "Aninhasincera01",
+        "created_at": "2026-10-26T00:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Aninhasincera01/status/2114517237570658756#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114426637877989788",
+        "parent_comment_id": "2114426637877989788",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 55,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
