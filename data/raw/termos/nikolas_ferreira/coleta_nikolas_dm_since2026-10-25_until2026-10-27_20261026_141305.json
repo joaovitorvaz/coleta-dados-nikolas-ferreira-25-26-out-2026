@@ -1,0 +1,3456 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolas_dm",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "fb28eb4a-24b3-4642-837f-b10c4d0691fa",
+    "collected_at": "2026-10-26T14:13:05-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 15
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114756935354290650",
+            "text": "Finalmente o Lula receberá a herança maldita dele mesmo.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-26T16:31:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114756935354290650#m",
+            "metrics": {
+              "like_count": 216,
+              "reply_count": 2,
+              "retweet_count": 1,
+              "quote_count": 15
+            }
+          },
+          {
+            "id": "2114542235731796011",
+            "text": ">11 milhões de votos a mais\n> crescimento em TODOS OS ESTADOS\n>Redução na abstenção não explica o fenômeno\n> todos os votos dos outros candidatos teriam que ir pro Lula. Qual a chance?",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-26T02:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114542235731796011#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 34,
+              "retweet_count": 16,
+              "quote_count": 118
+            }
+          },
+          {
+            "id": "2114540768241062087",
+            "text": "Mudar a regra do jogo no meio dele não é democrático. Que tudo seja esclarecido. Até lá, Lula não é meu presidente.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-26T02:13:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114540768241062087#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 25,
+              "retweet_count": 10,
+              "quote_count": 74
+            }
+          },
+          {
+            "id": "2114494894165406066",
+            "text": "Esperando os votos do Sudeste entrar. Nada como um dia após o outro.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T23:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114494894165406066#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 50,
+              "retweet_count": 5,
+              "quote_count": 63
+            }
+          },
+          {
+            "id": "2114493557675323780",
+            "text": "O Brasil vai vencer.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T23:05:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114493557675323780#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 28,
+              "retweet_count": 6,
+              "quote_count": 60
+            }
+          },
+          {
+            "id": "2114490755381350725",
+            "text": "Volta aqui quando perder.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T22:54:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114490755381350725#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 15,
+              "retweet_count": 4,
+              "quote_count": 29
+            }
+          },
+          {
+            "id": "2114484684495126750",
+            "text": "Quando abrir as urnas de São Paulo… Agora eles vão sentir o contrário 👍🏻",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T22:30:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114484684495126750#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 7,
+              "retweet_count": 4,
+              "quote_count": 53
+            }
+          },
+          {
+            "id": "2114468468250546285",
+            "text": "Mais um impeachment pra ano que vem.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T21:25:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114468468250546285#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 14,
+              "retweet_count": 11,
+              "quote_count": 120
+            }
+          },
+          {
+            "id": "2114468206018695411",
+            "text": "Ou a gente ganha. Ou a gente ganha. Tá avisado.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T21:24:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114468206018695411#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 34,
+              "retweet_count": 8,
+              "quote_count": 83
+            }
+          },
+          {
+            "id": "2114467537442226629",
+            "text": "Isso é urgente mesmo.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T21:22:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114467537442226629#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 6,
+              "retweet_count": 23,
+              "quote_count": 116
+            }
+          },
+          {
+            "id": "2114426637877989788",
+            "text": "Achei que pelo menos iam esperar acabar a apuração pra começar chorar.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T18:39:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114426637877989788#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 5,
+              "retweet_count": 7,
+              "quote_count": 77
+            }
+          },
+          {
+            "id": "2114407813686464910",
+            "text": "Esse é e sempre foi o meu maior desejo.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T17:24:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114407813686464910#m",
+            "metrics": {
+              "like_count": 693,
+              "reply_count": 1,
+              "retweet_count": 7,
+              "quote_count": 42
+            }
+          },
+          {
+            "id": "2114373531932742064",
+            "text": "carinha de quem já tá pensando na mala que vai ter que arrumar",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T15:08:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114373531932742064#m",
+            "metrics": {
+              "like_count": 410,
+              "reply_count": 2,
+              "retweet_count": 3,
+              "quote_count": 26
+            }
+          },
+          {
+            "id": "2114371200491106670",
+            "text": "Acorda Brasil finalizou dia 25.01… e hoje dia é dia… Deus é perfeito.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T14:59:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114371200491106670#m",
+            "metrics": {
+              "like_count": 262,
+              "reply_count": 240,
+              "retweet_count": 2,
+              "quote_count": 18
+            }
+          },
+          {
+            "id": "2114366270816612471",
+            "text": "Ah que isso kkkkkkkk",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T14:39:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114366270816612471#m",
+            "metrics": {
+              "like_count": 64,
+              "reply_count": 39,
+              "retweet_count": 109,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114361595300078063",
+            "text": "Dito isso… 🇧🇷",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T14:21:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114361595300078063#m",
+            "metrics": {
+              "like_count": 420,
+              "reply_count": 917,
+              "retweet_count": 5,
+              "quote_count": 67
+            }
+          },
+          {
+            "id": "2114182251189768541",
+            "text": "“Dê o primeiro passo com fé. Você não precisa ver a escada inteira, apenas o primeiro degrau.”\n\n25.01.26 - Acorda Brasil.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T02:28:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114182251189768541#m",
+            "metrics": {
+              "like_count": 230,
+              "reply_count": 325,
+              "retweet_count": 3,
+              "quote_count": 21
+            }
+          },
+          {
+            "id": "2114152668218249686",
+            "text": "Faremos justiça amanhã, presidente. Obrigado por ter criado um Brasil antes e depois de você.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-25T00:30:00+00:00",
+            "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114152668218249686#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 5,
+              "retweet_count": 14,
+              "quote_count": 97
+            }
+          },
+          {
+            "id": "2114137629210067451",
+            "text": "Fiz tudo que pude. \nAgora está em suas mãos, Senhor.",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-24T23:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114137629210067451#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 9,
+              "retweet_count": 21,
+              "quote_count": 159
+            }
+          },
+          {
+            "id": "2114129478951506216",
+            "text": "69 dias. 80 cidades. E você cuidando da nossa casa enquanto isso. Obrigado, amor... te amo até o céu 💛",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-24T22:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114129478951506216#m",
+            "metrics": {
+              "like_count": 563,
+              "reply_count": 974,
+              "retweet_count": 6,
+              "quote_count": 74
+            }
+          },
+          {
+            "id": "2114126027936915956",
+            "text": "Se precisar a gente escala também. 😂\n\nMuito obrigado, Rio de Janeiro!",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-24T22:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114126027936915956#m",
+            "metrics": {
+              "like_count": 191,
+              "reply_count": 248,
+              "retweet_count": 3,
+              "quote_count": 21
+            }
+          },
+          {
+            "id": "2114120584892199117",
+            "text": "69 dias. 80 cidades. \"O vento que apaga a vela é o mesmo que alimenta o fogo\".",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-24T22:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114120584892199117#m",
+            "metrics": {
+              "like_count": 292,
+              "reply_count": 902,
+              "retweet_count": 5,
+              "quote_count": 36
+            }
+          },
+          {
+            "id": "2114117306511151114",
+            "text": "Meu braço tá destruído de tanto dar tchau pro pt kkkkkkk guardar força pro último amanhã!!!",
+            "author_username": "nikolas_dm",
+            "author_name": "nikolas_dm",
+            "created_at": "2026-10-24T22:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nikolas_dm/status/2114117306511151114#m",
+            "metrics": {
+              "like_count": 373,
+              "reply_count": 535,
+              "retweet_count": 3,
+              "quote_count": 41
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114537116159869421",
+            "text": "",
+            "author_username": "Raphael_Aguiar",
+            "author_name": "Raphael_Aguiar",
+            "created_at": "2026-10-26T01:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Raphael_Aguiar/status/2114537116159869421#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114272462137667588",
+            "text": "TAMO JUNTO! 🇧🇷",
+            "author_username": "JosuePatriota",
+            "author_name": "JosuePatriota",
+            "created_at": "2026-10-25T08:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JosuePatriota/status/2114272462137667588#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114143937137156523",
+            "text": "Falso profeta que usa o nome de Deus como palanque político e para enriquecer. No dia do julgamento, vocês irão pagar. Deus não irá esquecer que vocês transformaram a igreja evangelica em negócio com suas áreas VIPs e camarotes. Vermes fariseus!",
+            "author_username": "YBernabeiZ",
+            "author_name": "YBernabeiZ",
+            "created_at": "2026-10-24T23:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/YBernabeiZ/status/2114143937137156523#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114150101828702602",
+            "text": "Amém Jesus amado 🙏🏼💚💛",
+            "author_username": "tais_negrao",
+            "author_name": "tais_negrao",
+            "created_at": "2026-10-25T00:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tais_negrao/status/2114150101828702602#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114581993572765842",
+            "text": "",
+            "author_username": "titiomarcoA",
+            "author_name": "titiomarcoA",
+            "created_at": "2026-10-26T04:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/titiomarcoA/status/2114581993572765842#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114142503452516835",
+            "text": "👏 Parabéns 🇧🇷 22",
+            "author_username": "airtongm67",
+            "author_name": "airtongm67",
+            "created_at": "2026-10-24T23:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/airtongm67/status/2114142503452516835#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114533973233746226",
+            "text": "",
+            "author_username": "onelittlechaos",
+            "author_name": "onelittlechaos",
+            "created_at": "2026-10-26T01:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/onelittlechaos/status/2114533973233746226#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114539096530202788",
+            "text": "",
+            "author_username": "Drienne",
+            "author_name": "Drienne",
+            "created_at": "2026-10-26T02:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Drienne/status/2114539096530202788#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114529078841880913",
+            "text": "Você é outro lixo. Um atraso para a Direita. Fraco, incompetente e pilantra.",
+            "author_username": "sugamosto1",
+            "author_name": "sugamosto1",
+            "created_at": "2026-10-26T01:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sugamosto1/status/2114529078841880913#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114139244126220607",
+            "text": "Amém!🙏🏼🇧🇷",
+            "author_username": "SilverioElienai",
+            "author_name": "SilverioElienai",
+            "created_at": "2026-10-24T23:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SilverioElienai/status/2114139244126220607#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114537574295351679",
+            "text": "",
+            "author_username": "cajr1569",
+            "author_name": "cajr1569",
+            "created_at": "2026-10-26T02:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cajr1569/status/2114537574295351679#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114533401059570151",
+            "text": "O irmãozão em desespero!!!!!",
+            "author_username": "juju30680739",
+            "author_name": "juju30680739",
+            "created_at": "2026-10-26T01:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/juju30680739/status/2114533401059570151#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114146872994759121",
+            "text": "para de usar o nome de Deus na política, imbecil",
+            "author_username": "tszpoets",
+            "author_name": "tszpoets",
+            "created_at": "2026-10-25T00:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tszpoets/status/2114146872994759121#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114185255229784487",
+            "text": "Obrigada Nikolas!!! Vc foi um gigante nessas eleições! Q Deus te abençoe poderosamente! 2034 é vc quem será o Presidente! O Brasil vai vencer! ✌️✌️🇧🇷🇧🇷🇧🇷",
+            "author_username": "valeriasrj2023",
+            "author_name": "valeriasrj2023",
+            "created_at": "2026-10-25T02:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/valeriasrj2023/status/2114185255229784487#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114149386414432484",
+            "text": "Deus esta contigo meu querido Nikolas Ferreira @nikolas_dm vc foi muito guerreiro amamos vc nosso piá lindo coração gigante🫶🇧🇷amanhã é  2️⃣2️⃣✅️🇧🇷\n\n#Eleições2026 \n#FlavioBolsonaro22",
+            "author_username": "roselange08",
+            "author_name": "roselange08",
+            "created_at": "2026-10-25T00:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/roselange08/status/2114149386414432484#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114571638368784440",
+            "text": "O deputado  já leu a Bíblia? indico ler Romanos 13:1",
+            "author_username": "vies_phh",
+            "author_name": "vies_phh",
+            "created_at": "2026-10-26T04:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vies_phh/status/2114571638368784440#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114152038393053397",
+            "text": "Não vamos esquecer guerreiro",
+            "author_username": "raflaelR7",
+            "author_name": "raflaelR7",
+            "created_at": "2026-10-25T00:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/raflaelR7/status/2114152038393053397#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114150104936452372",
+            "text": "Parabéns fera, seu esforço não será esquecido.",
+            "author_username": "MedicoLiberdade",
+            "author_name": "MedicoLiberdade",
+            "created_at": "2026-10-25T00:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MedicoLiberdade/status/2114150104936452372#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114145056806391856",
+            "text": "",
+            "author_username": "edusouzalopes",
+            "author_name": "edusouzalopes",
+            "created_at": "2026-10-25T00:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/edusouzalopes/status/2114145056806391856#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114172507817390478",
+            "text": "Amem!🙏🇧🇷",
+            "author_username": "paulazanelli",
+            "author_name": "paulazanelli",
+            "created_at": "2026-10-25T01:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/paulazanelli/status/2114172507817390478#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114146443950768297",
+            "text": "No Japão já deu Flávio nas urnas. Amanhã o Brasil enterra o PT ⚰️",
+            "author_username": "Giuliano_FD",
+            "author_name": "Giuliano_FD",
+            "created_at": "2026-10-25T00:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Giuliano_FD/status/2114146443950768297#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114536306613371037",
+            "text": "Obrigado Nikolas! Sua atuação no nordeste ajudou muito mesmo! Muito obrigado! \nÉ o nosso novo camisa 10!",
+            "author_username": "BauruAntifa",
+            "author_name": "BauruAntifa",
+            "created_at": "2026-10-26T01:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/BauruAntifa/status/2114536306613371037#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114185060022730972",
+            "text": "Grande guerreiro, @nikolas_dm ! 👏🏻👏🏻👏🏻\nMineiro com garra de rubro-negro! ❤️🖤",
+            "author_username": "Marcelo40464992",
+            "author_name": "Marcelo40464992",
+            "created_at": "2026-10-25T02:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Marcelo40464992/status/2114185060022730972#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114138190684557636",
+            "text": "Amanhã levem seus pais 70+ para votar.\n\nEles farão a diferença.\n\n🇧🇷👍",
+            "author_username": "URTResistance",
+            "author_name": "URTResistance",
+            "created_at": "2026-10-24T23:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/URTResistance/status/2114138190684557636#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114553340734390345",
+            "text": "O Brasil agradece 😂😂😂😂",
+            "author_username": "LEONARD99434012",
+            "author_name": "LEONARD99434012",
+            "created_at": "2026-10-26T03:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LEONARD99434012/status/2114553340734390345#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114138102369288372",
+            "text": "",
+            "author_username": "JuniorFaF0",
+            "author_name": "JuniorFaF0",
+            "created_at": "2026-10-24T23:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JuniorFaF0/status/2114138102369288372#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114162876940222487",
+            "text": "",
+            "author_username": "AntonyJojohn",
+            "author_name": "AntonyJojohn",
+            "created_at": "2026-10-25T01:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AntonyJojohn/status/2114162876940222487#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114143762037268896",
+            "text": "Cristo não de vcs",
+            "author_username": "MauricioNardi20",
+            "author_name": "MauricioNardi20",
+            "created_at": "2026-10-24T23:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MauricioNardi20/status/2114143762037268896#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114184516902203817",
+            "text": "Você foi giganteeeee! Sem palavras por tudo que você fez, Obrigada por tudo que você fez pra salvar o nosso Brasil. Que Deus te abençoe, te proteja, e te use ainda mais. Já deu tudo certo! Venceremos 🙏🏻🇧🇷",
+            "author_username": "Jakelyneloiola_",
+            "author_name": "Jakelyneloiola_",
+            "created_at": "2026-10-25T02:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jakelyneloiola_/status/2114184516902203817#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114138332741382246",
+            "text": "Tenho dito: A nossa padroeira não vai deixá-los passar. 🙏",
+            "author_username": "familiaroitmann",
+            "author_name": "familiaroitmann",
+            "created_at": "2026-10-24T23:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/familiaroitmann/status/2114138332741382246#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114518506674807078",
+            "text": "O senhor não quis KKKKK",
+            "author_username": "jademasc",
+            "author_name": "jademasc",
+            "created_at": "2026-10-26T00:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jademasc/status/2114518506674807078#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114143357383389686",
+            "text": "Sampa mostrou que será:\n#LULA2026 🇧🇷🇧🇷🇧🇷🇧🇷\n   LULA 13",
+            "author_username": "MauricioNardi20",
+            "author_name": "MauricioNardi20",
+            "created_at": "2026-10-24T23:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MauricioNardi20/status/2114143357383389686#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114143483199906159",
+            "text": "Muito obrigada! 🙏🙌✌️✌️🇧🇷🗽",
+            "author_username": "lena_marly",
+            "author_name": "lena_marly",
+            "created_at": "2026-10-24T23:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lena_marly/status/2114143483199906159#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114157743510577366",
+            "text": "Quando tudo parecia perdido, você se levantou e iniciou a reação na caminhada rumo a Brasília. Eu estava lá, caminhando ao seu lado. Mesmo no anonimato, sei que fiz parte dessa história. Saí do Espírito Santo e viajei o dia inteiro de carro até Luziânia, em Goiás, só para acompanhar a sua jornada até a capital. Naquele dia, nós despertamos e perdemos o medo. Hoje, terminamos gigantes! Obrigado, Piá.",
+            "author_username": "Mbg665514244909",
+            "author_name": "Mbg665514244909",
+            "created_at": "2026-10-25T00:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Mbg665514244909/status/2114157743510577366#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114199732205572109",
+            "text": "Fez um grande e maravilhoso trabalho Nikolas. Deus te abençoe sempre 🙏🏻🙏🏻",
+            "author_username": "CarlaSv22",
+            "author_name": "CarlaSv22",
+            "created_at": "2026-10-25T03:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CarlaSv22/status/2114199732205572109#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114146383099744592",
+            "text": "religiao e politica nao se mistura, Deus nao tem nada a ver com isso",
+            "author_username": "callwrii",
+            "author_name": "callwrii",
+            "created_at": "2026-10-25T00:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/callwrii/status/2114146383099744592#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114137629210067451",
+            "parent_comment_id": "2114137629210067451",
+            "depth": 1
+          },
+          {
+            "id": "2114213222278459619",
+            "text": "Vou nem comentar... 🤭",
+            "author_username": "lucianoRiki",
+            "author_name": "lucianoRiki",
+            "created_at": "2026-10-25T04:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lucianoRiki/status/2114213222278459619#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114131323577409654",
+            "text": "Por trás de um grande homem, sempre tem uma grande mulher!",
+            "author_username": "VeraTor61676200",
+            "author_name": "VeraTor61676200",
+            "created_at": "2026-10-24T23:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/VeraTor61676200/status/2114131323577409654#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114136207026225626",
+            "text": "",
+            "author_username": "loh_schu",
+            "author_name": "loh_schu",
+            "created_at": "2026-10-24T23:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/loh_schu/status/2114136207026225626#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114372499064410541",
+            "text": "Você é um exemplo para todos nós. Obrigado @nikolas_dm Deus te abençoe e proteja!! 🙌🏼🇧🇷",
+            "author_username": "LeoAlvves70",
+            "author_name": "LeoAlvves70",
+            "created_at": "2026-10-25T15:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LeoAlvves70/status/2114372499064410541#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114142436838777017",
+            "text": "Deus sempre honra aquele que confia nele e que cumpre sua palavra, Deus sabe o quanto você está sendo importante para um povo, um país e uma nação que clama por mudanças e você trabalhou incansavelmente para alcançar isso para todos nós brasileiros, parabéns. Deus te abençoe 🙏",
+            "author_username": "direita_amen",
+            "author_name": "direita_amen",
+            "created_at": "2026-10-24T23:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/direita_amen/status/2114142436838777017#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114169939799974335",
+            "text": "Nikolas tu foi e é GIGANTE pra caramba.\nParabéns e que DEUS abençoe e proteja sempre.\n22 Neles!!!\n🇧🇷👊🇧🇷",
+            "author_username": "jrmagalhaes33",
+            "author_name": "jrmagalhaes33",
+            "created_at": "2026-10-25T01:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jrmagalhaes33/status/2114169939799974335#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114145324625199322",
+            "text": "Corajosa ela, imagine beijar esse esgoto a céu aberto.",
+            "author_username": "BATTISTARRUDA",
+            "author_name": "BATTISTARRUDA",
+            "created_at": "2026-10-25T00:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/BATTISTARRUDA/status/2114145324625199322#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114130642506252480",
+            "text": "“E você cuidando da nossa casa enquanto isso” machista doente plmd🤮🤮",
+            "author_username": "OvoHugo",
+            "author_name": "OvoHugo",
+            "created_at": "2026-10-24T23:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/OvoHugo/status/2114130642506252480#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114150488094421264",
+            "text": "O cara beijando com nojo kkkkk",
+            "author_username": "Salenaj31",
+            "author_name": "Salenaj31",
+            "created_at": "2026-10-25T00:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Salenaj31/status/2114150488094421264#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114435315179962501",
+            "text": "Lindos ! Só aguardando a sua vitória ✌️ a nossa @nikolas_dm 🇧🇷🗽",
+            "author_username": "AnaChiossi",
+            "author_name": "AnaChiossi",
+            "created_at": "2026-10-25T19:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AnaChiossi/status/2114435315179962501#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114129782233604245",
+            "text": "ue?",
+            "author_username": "foreveerlauuu",
+            "author_name": "foreveerlauuu",
+            "created_at": "2026-10-24T22:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/foreveerlauuu/status/2114129782233604245#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114133923051540773",
+            "text": "Bolsonarista é isso, achar que mulher tem que ficar em casa.",
+            "author_username": "rbaspel",
+            "author_name": "rbaspel",
+            "created_at": "2026-10-24T23:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rbaspel/status/2114133923051540773#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114387073918542019",
+            "text": "Parabéns guerreiro, Deus abençoe sempre sua família.",
+            "author_username": "jotaley1965",
+            "author_name": "jotaley1965",
+            "created_at": "2026-10-25T16:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jotaley1965/status/2114387073918542019#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114167157827227723",
+            "text": "Vai se fuder cuidando da nossa casa como se a casa fosse fugirKKKKKKK",
+            "author_username": "winterisvcnt",
+            "author_name": "winterisvcnt",
+            "created_at": "2026-10-25T01:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/winterisvcnt/status/2114167157827227723#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114175477032042666",
+            "text": "Uma cena assim corrói a alma das feministas.\n\nQue Deus abençoe vocês 🙏🏻",
+            "author_username": "cergeorge",
+            "author_name": "cergeorge",
+            "created_at": "2026-10-25T02:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cergeorge/status/2114175477032042666#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114132989437424001",
+            "text": "Futura 1° Dama do Brasil",
+            "author_username": "ALBERTOIANNUZZ6",
+            "author_name": "ALBERTOIANNUZZ6",
+            "created_at": "2026-10-24T23:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ALBERTOIANNUZZ6/status/2114132989437424001#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114377338683359683",
+            "text": "Lindo!! Que Deus os abençoe!!\nOrgulho do Brasil!!!",
+            "author_username": "Eliane75592298",
+            "author_name": "Eliane75592298",
+            "created_at": "2026-10-25T15:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Eliane75592298/status/2114377338683359683#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114165720552820992",
+            "text": "Nikolas, você é o exemplo de quem não se vende e não se cala. Lutou pelo Brasil com fé e coragem. Obrigado por não abandonar a luta! 🙏🇧🇷",
+            "author_username": "sergio_vitoria",
+            "author_name": "sergio_vitoria",
+            "created_at": "2026-10-25T01:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sergio_vitoria/status/2114165720552820992#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114136113384505503",
+            "text": "Ahhhhh, que Deus abençoe e proteja vocês sempre! 💚",
+            "author_username": "Jakelyneloiola_",
+            "author_name": "Jakelyneloiola_",
+            "created_at": "2026-10-24T23:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Jakelyneloiola_/status/2114136113384505503#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114142876955259280",
+            "text": "Ela sabe que ela tá beijando a boca que mamou o Neymar e o Vorcaro??",
+            "author_username": "samu_galo",
+            "author_name": "samu_galo",
+            "created_at": "2026-10-24T23:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/samu_galo/status/2114142876955259280#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114351310514376888",
+            "text": "😍❤️🙏🏻🙏🏻🙏🏻",
+            "author_username": "Yuna_Lightning",
+            "author_name": "Yuna_Lightning",
+            "created_at": "2026-10-25T13:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Yuna_Lightning/status/2114351310514376888#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114168581348802618",
+            "text": "Obrigado Nikolas. O Amapá agradece!",
+            "author_username": "lucivanpinho",
+            "author_name": "lucivanpinho",
+            "created_at": "2026-10-25T01:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lucivanpinho/status/2114168581348802618#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114138755372130678",
+            "text": "Obrigada por tanto, Nikolas.\nTe amamos❤️",
+            "author_username": "SayonaraMonfra",
+            "author_name": "SayonaraMonfra",
+            "created_at": "2026-10-24T23:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SayonaraMonfra/status/2114138755372130678#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114320565594935390",
+            "text": "❤️",
+            "author_username": "valeriascher",
+            "author_name": "valeriascher",
+            "created_at": "2026-10-25T11:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/valeriascher/status/2114320565594935390#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114151295170879912",
+            "text": "Que lindos, Deus seja sempre a base de vocês casal.",
+            "author_username": "vaitomanocupt",
+            "author_name": "vaitomanocupt",
+            "created_at": "2026-10-25T00:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vaitomanocupt/status/2114151295170879912#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114140899332514187",
+            "text": "Por trás de um grande Homem sempre tem uma grande Mulher.",
+            "author_username": "gean_damasceno",
+            "author_name": "gean_damasceno",
+            "created_at": "2026-10-24T23:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gean_damasceno/status/2114140899332514187#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114141629531734088",
+            "text": "O Brasil todo agradece sua mulher! Obrigada pelo empréstimo! Ele agora é todo seu novamente",
+            "author_username": "rayanamp",
+            "author_name": "rayanamp",
+            "created_at": "2026-10-24T23:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rayanamp/status/2114141629531734088#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114415538109604332",
+            "text": "Deus abençoe sempre você e sua casa.",
+            "author_username": "JacksonAbellLi1",
+            "author_name": "JacksonAbellLi1",
+            "created_at": "2026-10-25T17:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JacksonAbellLi1/status/2114415538109604332#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114130016707481681",
+            "text": "Obrigado Nikolas pela sua dedicação ao Brasil!",
+            "author_username": "GueliRonaldo",
+            "author_name": "GueliRonaldo",
+            "created_at": "2026-10-24T23:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GueliRonaldo/status/2114130016707481681#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114259221961195997",
+            "text": "Há Amores que duram duas, outros semanas, há outras , que duram até a Química \nAcabar. Mas ainda há os Melhores, \nAqueles foram Feitos pra durarem \nA Vida Toda. Felicidades Infinitas ao CASAL,\nQUE DEUS OS ABENÇOE HOJE, AMANHÃ E SEMPRE 🙌🙌🏾👏🏾",
+            "author_username": "LucieneFer37246",
+            "author_name": "LucieneFer37246",
+            "created_at": "2026-10-25T07:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LucieneFer37246/status/2114259221961195997#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114260038114029968",
+            "text": "❤️ família é muito importante! Obrigado Nikolas por seu sacrifício e dedicação a uma causa tão importante para todas as famílias brasileiras! Que Deus vos abençoe 🙏",
+            "author_username": "osoldaliberdade",
+            "author_name": "osoldaliberdade",
+            "created_at": "2026-10-25T07:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/osoldaliberdade/status/2114260038114029968#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114234574456664188",
+            "text": "o bolsonaro sabe disso?",
+            "author_username": "tayoouyein",
+            "author_name": "tayoouyein",
+            "created_at": "2026-10-25T05:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tayoouyein/status/2114234574456664188#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114144499563716708",
+            "text": "falando que o dever da mulher é cuidar da casa, nossa que nojo 🤮, ainda de diz cristão",
+            "author_username": "ykaaik",
+            "author_name": "ykaaik",
+            "created_at": "2026-10-24T23:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ykaaik/status/2114144499563716708#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114130841903263994",
+            "text": "Sua dedicação foi imensurável, gratidão 🙏🏼🙏🏼\nQue Deus abençoe sua família 🙏🏼",
+            "author_username": "YokosamaMarcia",
+            "author_name": "YokosamaMarcia",
+            "created_at": "2026-10-24T23:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/YokosamaMarcia/status/2114130841903263994#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114131052109222211",
+            "text": "Obrigado @nikolas_dm, vc é o orgulho do povo brasileiro.",
+            "author_username": "DaSilva99712",
+            "author_name": "DaSilva99712",
+            "created_at": "2026-10-24T23:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DaSilva99712/status/2114131052109222211#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114344203153006878",
+            "text": "Cuide bem do seu amor,\nEla vai subir a rampa logo logo.",
+            "author_username": "raposadedireita",
+            "author_name": "raposadedireita",
+            "created_at": "2026-10-25T13:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/raposadedireita/status/2114344203153006878#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114129478951506216",
+            "parent_comment_id": "2114129478951506216",
+            "depth": 1
+          },
+          {
+            "id": "2114175831719247961",
+            "text": "VOA ALTO BRASIL 🇧🇷",
+            "author_username": "joaorozendo",
+            "author_name": "joaorozendo",
+            "created_at": "2026-10-25T02:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joaorozendo/status/2114175831719247961#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114126378547187840",
+            "text": "",
+            "author_username": "RuizStorti",
+            "author_name": "RuizStorti",
+            "created_at": "2026-10-24T22:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RuizStorti/status/2114126378547187840#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114128205582073989",
+            "text": "Tá fácil escolher",
+            "author_username": "JuniorFonseca05",
+            "author_name": "JuniorFonseca05",
+            "created_at": "2026-10-24T22:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JuniorFonseca05/status/2114128205582073989#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114133496486563847",
+            "text": "Nikolas Ferreira\n\n🇧🇷 O Rio mostrou a força da mobilização pacífica! Amanhã cada voto conta e o resultado deve ser respeitado por todos. Depois da urna, o país precisa de emprego e previsibilidade para quem empreende. 22 💚💛",
+            "author_username": "Haroldo_Lima_22",
+            "author_name": "Haroldo_Lima_22",
+            "created_at": "2026-10-24T23:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Haroldo_Lima_22/status/2114133496486563847#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114139283695014311",
+            "text": "Eu estava lá também",
+            "author_username": "marinamaraoi1",
+            "author_name": "marinamaraoi1",
+            "created_at": "2026-10-24T23:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marinamaraoi1/status/2114139283695014311#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114159720747434042",
+            "text": "",
+            "author_username": "suzyfleury",
+            "author_name": "suzyfleury",
+            "created_at": "2026-10-25T00:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/suzyfleury/status/2114159720747434042#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114126319856341007",
+            "text": "",
+            "author_username": "RuizStorti",
+            "author_name": "RuizStorti",
+            "created_at": "2026-10-24T22:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RuizStorti/status/2114126319856341007#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114127109878923744",
+            "text": "O PIÁ de OURO @nikolas_dm levantando gerações, comandado por Deus para libertar o Brasil.  Esse é o verdadeiro algoritmo!",
+            "author_username": "taniamelo1966",
+            "author_name": "taniamelo1966",
+            "created_at": "2026-10-24T22:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/taniamelo1966/status/2114127109878923744#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114126597095653474",
+            "text": "Urgenteeeeeeeeeeee📢📢📢📢",
+            "author_username": "em_toda",
+            "author_name": "em_toda",
+            "created_at": "2026-10-24T22:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/em_toda/status/2114126597095653474#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114127816233222476",
+            "text": "Vc realmente é um PIÁ, SÓ QUE UM PIÁ DE DEUS. O NOSSO MUITO OBRIGADO POR TUDO QUE VC FEZ, OU MELHOR Q VCS FIZERAM, AFINAL UM ANDORINHA Ñ FAZ VERÃO SOZINHA. \nMUITO OBRIGADA DE TODO O MEU 💚💛💚💛",
+            "author_username": "CatiaMa11191507",
+            "author_name": "CatiaMa11191507",
+            "created_at": "2026-10-24T22:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CatiaMa11191507/status/2114127816233222476#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114126478749417858",
+            "text": "OBRIGADO, NUNCA VAMOS ESQUECER POR TUDO O QUE VOCÊ ESTÁ FAZENDO. PODE TER CERTEZA QUE VOCÊ VAI COLHER TUDO AQUILO QUE VOCÊ ESTÁ PLANTANDO HOJE NIKOLAS. TAMO JUNTO, O BRASIL TÁ JUNTO COM VOCÊ, NÃO VAMOS DESISTIR JAMAIS..!! 🇧🇷🇧🇷\n\nLIBERDADE JAIR MESSIAS BOLSONARO 🙏🙏🙏",
+            "author_username": "rodr1gorocha",
+            "author_name": "rodr1gorocha",
+            "created_at": "2026-10-24T22:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rodr1gorocha/status/2114126478749417858#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114150195063599189",
+            "text": "Parabéns aos cariocas 👏👏👏👏👏👏👏\nAmanhã é 2️⃣2️⃣ 🇧🇷✌️✌️🇧🇷 🙏",
+            "author_username": "StelarisK",
+            "author_name": "StelarisK",
+            "created_at": "2026-10-25T00:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/StelarisK/status/2114150195063599189#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114126667027190052",
+            "text": "Obrigado a você, Nikolas.",
+            "author_username": "BellizziNipo",
+            "author_name": "BellizziNipo",
+            "created_at": "2026-10-24T22:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/BellizziNipo/status/2114126667027190052#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114133710316441847",
+            "text": "Lembra aquela caminhada? Pois é, Deus sempre tem um propósito maior",
+            "author_username": "safergyn",
+            "author_name": "safergyn",
+            "created_at": "2026-10-24T23:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/safergyn/status/2114133710316441847#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114126531463135741",
+            "text": "Um aumento pros seguranças se faz necessário!! 🤣😅",
+            "author_username": "Suhh1",
+            "author_name": "Suhh1",
+            "created_at": "2026-10-24T22:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Suhh1/status/2114126531463135741#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114128022181675053",
+            "text": "Jesus!!! Cuida desse menino!",
+            "author_username": "MagaPatalgica4",
+            "author_name": "MagaPatalgica4",
+            "created_at": "2026-10-24T22:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MagaPatalgica4/status/2114128022181675053#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114364942266892491",
+            "text": "Nós quem agradecemos @nikolas_dm Pia de luz e magnânimo!",
+            "author_username": "CarlaVeronicaN2",
+            "author_name": "CarlaVeronicaN2",
+            "created_at": "2026-10-25T14:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CarlaVeronicaN2/status/2114364942266892491#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114141893772931143",
+            "text": "Valeu, Nikolas, foi perfeito o que vocês fizeram no RJ.",
+            "author_username": "KynhaSouza22",
+            "author_name": "KynhaSouza22",
+            "created_at": "2026-10-24T23:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/KynhaSouza22/status/2114141893772931143#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114131739538760129",
+            "text": "Obrigada vc , nosso piá de ouro ! 💛🇧🇷🙏🏻",
+            "author_username": "eitaeuanninhaaa",
+            "author_name": "eitaeuanninhaaa",
+            "created_at": "2026-10-24T23:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/eitaeuanninhaaa/status/2114131739538760129#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114128952134668376",
+            "text": "Eu tava lá eu vi, estamos vivenciando um novo mártir da política surgindo.\nAs crianças amam o Nikolas",
+            "author_username": "fabiocatalao_",
+            "author_name": "fabiocatalao_",
+            "created_at": "2026-10-24T22:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fabiocatalao_/status/2114128952134668376#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114131003673309196",
+            "text": "🤝🫡🇧🇷🇮🇱🇺🇲2️⃣2️⃣tmj Nikolas. Ninguém solta a mão de ninguém !",
+            "author_username": "Cruiz_teixeira",
+            "author_name": "Cruiz_teixeira",
+            "created_at": "2026-10-24T23:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Cruiz_teixeira/status/2114131003673309196#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114137233515299038",
+            "text": "Valeu Nikolas por todo apoio! Vamos arrumar o Brasil deste rombo deixado pela esquerda em 18 anos! Ajudar o povo brasileiro",
+            "author_username": "danilo_iacovone",
+            "author_name": "danilo_iacovone",
+            "created_at": "2026-10-24T23:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/danilo_iacovone/status/2114137233515299038#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114128902230823368",
+            "text": "O RIO É 22 E VOCÊS SABEM RACHAREMOS",
+            "author_username": "purgarams",
+            "author_name": "purgarams",
+            "created_at": "2026-10-24T22:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/purgarams/status/2114128902230823368#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114384097334477012",
+            "text": "Foi lindo e eu fui, faço parte da mudança 2️⃣2️⃣💚💛🇧🇷",
+            "author_username": "gambito_rainha",
+            "author_name": "gambito_rainha",
+            "created_at": "2026-10-25T15:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gambito_rainha/status/2114384097334477012#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114315613053002141",
+            "text": "Você é muito querido aqui no Rio, Nikolas!!!!!!!",
+            "author_username": "PauloSilva46353",
+            "author_name": "PauloSilva46353",
+            "created_at": "2026-10-25T11:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PauloSilva46353/status/2114315613053002141#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114282824123482567",
+            "text": "Obrigada Nikolas vc foi essencial pra essa eleição parabéns! Deus te abençoe grandemente sua vida!",
+            "author_username": "EmileneChris",
+            "author_name": "EmileneChris",
+            "created_at": "2026-10-25T09:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/EmileneChris/status/2114282824123482567#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114208385511870935",
+            "text": "Foi demais!!!",
+            "author_username": "luciacastilho12",
+            "author_name": "luciacastilho12",
+            "created_at": "2026-10-25T04:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/luciacastilho12/status/2114208385511870935#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114127559902548152",
+            "text": "Tão pequenininho e o gigante ao mesmo tempo no meio dessa multidão seu cara enviado de Deus meu sonho é conhecer você Jair e Flávio todo mundo a benção de Deus",
+            "author_username": "DirceLorano",
+            "author_name": "DirceLorano",
+            "created_at": "2026-10-24T22:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DirceLorano/status/2114127559902548152#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114181807692194004",
+            "text": "Parabéns Nikolas! você também já é um mito. Um dia chegará a sua vez de governar o nosso Brasil.",
+            "author_username": "ph19_",
+            "author_name": "ph19_",
+            "created_at": "2026-10-25T02:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ph19_/status/2114181807692194004#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114304420854771965",
+            "text": "Spider Ferreira. Gigante 🫡 Eu tava lá, piá",
+            "author_username": "FelipeMach23641",
+            "author_name": "FelipeMach23641",
+            "created_at": "2026-10-25T10:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FelipeMach23641/status/2114304420854771965#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114360046918246481",
+            "text": "Deus nos salve desses çomini$ta$ de extrema esquerda em nome de Jesus 🙏2️⃣2️⃣✅🇧🇷🗽.",
+            "author_username": "MjbZeze",
+            "author_name": "MjbZeze",
+            "created_at": "2026-10-25T14:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MjbZeze/status/2114360046918246481#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114136629262659627",
+            "text": "Parabéns pelo excelente trabalho 👏👏👏",
+            "author_username": "Francineide_2",
+            "author_name": "Francineide_2",
+            "created_at": "2026-10-24T23:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Francineide_2/status/2114136629262659627#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114134610401738895",
+            "text": "Lindo! Lindo! Parabéns!",
+            "author_username": "joscilene_maria",
+            "author_name": "joscilene_maria",
+            "created_at": "2026-10-24T23:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joscilene_maria/status/2114134610401738895#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114168157325664458",
+            "text": "Ahh mano, só obrigado mesmo, queria te agradecer pessoalmente, mas por aqui tá bom. Parabéns",
+            "author_username": "GSilva11339",
+            "author_name": "GSilva11339",
+            "created_at": "2026-10-25T01:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GSilva11339/status/2114168157325664458#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114126570516324375",
+            "text": "@Chief117Br compare esta subida de escada com o Renan Cogumelo subindo caixa d'agua hahahahahha",
+            "author_username": "MrGroundSwell_",
+            "author_name": "MrGroundSwell_",
+            "created_at": "2026-10-24T22:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MrGroundSwell_/status/2114126570516324375#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114350461406896411",
+            "text": "Obrigada Nicolas 💯❤️vc foi o nosso alicerce 👊🏻🙏🇧🇷🙋‍♀️",
+            "author_username": "Cecilia38430694",
+            "author_name": "Cecilia38430694",
+            "created_at": "2026-10-25T13:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Cecilia38430694/status/2114350461406896411#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114126027936915956",
+            "parent_comment_id": "2114126027936915956",
+            "depth": 1
+          },
+          {
+            "id": "2114128489049952504",
+            "text": "Chorando ao ver o que esse menino fez e vai fazer pelo Brasil.😭😭\n\nAgradeço Jesus por enviar ao Brasil um ser imperfeito mais cheio de graça. 🙏",
+            "author_username": "LanzaDMarcelo",
+            "author_name": "LanzaDMarcelo",
+            "created_at": "2026-10-24T22:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LanzaDMarcelo/status/2114128489049952504#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114121142420037681",
+            "text": "Vamos vencer!🙏",
+            "author_username": "Meloni07C",
+            "author_name": "Meloni07C",
+            "created_at": "2026-10-24T22:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Meloni07C/status/2114121142420037681#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114175059484955072",
+            "text": "Esse despertar não começou nessa campanha. O caminho foi longo até aqui. O esforço não foi em vão. Vamos vencer. Gratidão.",
+            "author_username": "mistercissao",
+            "author_name": "mistercissao",
+            "created_at": "2026-10-25T01:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mistercissao/status/2114175059484955072#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114135979649085912",
+            "text": "Ahh, meu querido ..\nComo te agradecer?\nA cada dia que estou por perto, mais te admiro.\nSabemos o q vc enfrentou, mas nunca, nunca duvidamos de vc.\nDos seus princípios. Da sua fé. E a sua determinação em mudar o Brasil.\nObrigada.\nMil vezes,  obrigada!\n❤️",
+            "author_username": "valeriascher",
+            "author_name": "valeriascher",
+            "created_at": "2026-10-24T23:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/valeriascher/status/2114135979649085912#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114205525340479566",
+            "text": "Deus te abençoe guerreiro! Vc foi gigante! O Brasil vai vencer! 💪✌️✌️🇧🇷🇧🇷",
+            "author_username": "valeriasrj2023",
+            "author_name": "valeriasrj2023",
+            "created_at": "2026-10-25T04:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/valeriasrj2023/status/2114205525340479566#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114127028865609944",
+            "text": "É amanhã.  Domingo é dia de ressurreição do Senhor Jesus onde Ele triunfou sobre as trevas e trouxe salvação. Deus vai atender nossas preces e dar a libertação ao Brasil em nome de Jesus. Vamos juntos pois feliz é a nação cujo Deus é o senhor. SALMOS 33.12. Aperte 22 com fé.",
+            "author_username": "Eliecb5g",
+            "author_name": "Eliecb5g",
+            "created_at": "2026-10-24T22:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Eliecb5g/status/2114127028865609944#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114309456158732349",
+            "text": "Que Deus te abençoe,te guarde e te ilumine! O Brasil e o Nordeste são muito gratos a você por tudo o que você fez! Como uma autêntica nordestina eu te digo muito obrigada @nikolas_dm de verdade obrigada por lembrar do nordeste! O Brasil te ama ❤️🇧🇷🇧🇷🇧🇷",
+            "author_username": "AllyneSilva2020",
+            "author_name": "AllyneSilva2020",
+            "created_at": "2026-10-25T10:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AllyneSilva2020/status/2114309456158732349#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114130576282468855",
+            "text": "Que linda a sua frase, @nikolas_dm 🙌\nVocê foi uma inspiração.\nDeus te abençoe 🙏 e \nMUITO OBRIGADA 💚💛🇧🇷\nSem a sua ajuda não teríamos chegado onde chegamos.\nQue amanhã possamos comemorar juntos o futuro do nosso país 🫶",
+            "author_username": "UmbigodaBanana",
+            "author_name": "UmbigodaBanana",
+            "created_at": "2026-10-24T23:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/UmbigodaBanana/status/2114130576282468855#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114120774839865441",
+            "text": "Vc foi gigante nessa campanha, obrigada \n\nFLÁVIO 🇧🇷2️⃣2️⃣🇧🇷",
+            "author_username": "ladybibizete",
+            "author_name": "ladybibizete",
+            "created_at": "2026-10-24T22:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ladybibizete/status/2114120774839865441#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114137340666839537",
+            "text": "Que campanha foi essaaaa??  Limpa, alegre,cheia de união.... Parabéns Nikolas , Flávio e \nTodos os envolvidos. O Brasil vai vencer. 🙏🇧🇷🇧🇷🇧🇷 Parabéns povo brasileiro!!!",
+            "author_username": "SulaBrasil22",
+            "author_name": "SulaBrasil22",
+            "created_at": "2026-10-24T23:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/SulaBrasil22/status/2114137340666839537#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114121582633255372",
+            "text": "Brabo demais.\nParabéns @nikolas_dm",
+            "author_username": "ferdeg_renasce",
+            "author_name": "ferdeg_renasce",
+            "created_at": "2026-10-24T22:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ferdeg_renasce/status/2114121582633255372#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114123443600072832",
+            "text": "Nikolas, você é nosso pequeno herói 🩵🇧🇷🫶🏻",
+            "author_username": "helemazevedo",
+            "author_name": "helemazevedo",
+            "created_at": "2026-10-24T22:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/helemazevedo/status/2114123443600072832#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114137255338012704",
+            "text": "Amém! Louvado seja Deus 🙏 🙌\n🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷",
+            "author_username": "Anyguima2217",
+            "author_name": "Anyguima2217",
+            "created_at": "2026-10-24T23:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Anyguima2217/status/2114137255338012704#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114121053303656874",
+            "text": "VOCÊS  TODOS ESTÃO DE PARABÉNS!!!  VERDADEIROS GUERREIROS DA PÁTRIA!!!  DEUS ABENÇOE  TODOS!!!  O BRASIL VAI VENCER!!  💥💥🚀🚀",
+            "author_username": "pitamira2",
+            "author_name": "pitamira2",
+            "created_at": "2026-10-24T22:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pitamira2/status/2114121053303656874#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114124803951231452",
+            "text": "O que esse menino fez pra eleger o Flávio, FOI SIMPLESMENTE SURREAL... GIGANTE!!!   \n\nE aquela gentinha infiltrada de direita que atacaram o Nikolas nesses 2 anos, não tiraram nem a bunda do sofá pra fazer algo nessa campanha.. só sabem mandar indiretinha..\n\nOBRIGADO NIKOLAS 🇧🇷",
+            "author_username": "bielconn",
+            "author_name": "bielconn",
+            "created_at": "2026-10-24T22:40:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bielconn/status/2114124803951231452#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114121358045016181",
+            "text": "E é na vela 🕯️ que você senta todo dia!",
+            "author_username": "gamorim7",
+            "author_name": "gamorim7",
+            "created_at": "2026-10-24T22:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gamorim7/status/2114121358045016181#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114123204340126133",
+            "text": "80 cidades em 69 dias é mais de uma por dia, encaixando debate, gravação e estrada no meio. Isso explica a praça cheia que a gente viu hoje no Rio.",
+            "author_username": "glaubera",
+            "author_name": "glaubera",
+            "created_at": "2026-10-24T22:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/glaubera/status/2114123204340126133#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114264125341630817",
+            "text": "Obrigada, Nikolas! Você é um grande homem, ungido de Deus. Será nosso presidente em breve. Obrigada por tanta dedicação e amor pelo povo brasileiro. Deus continue te abençoando e protegendo sempre. Vamos vencer!!",
+            "author_username": "ellabhmg",
+            "author_name": "ellabhmg",
+            "created_at": "2026-10-25T07:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ellabhmg/status/2114264125341630817#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114127055923167267",
+            "text": "Brabo demais\nDescansa\n\nAmanha venceremos\n\nO Brasil vai dar o maior apavoro no PT\n\n2️⃣2️⃣🇧🇷✅",
+            "author_username": "lala_oiCap",
+            "author_name": "lala_oiCap",
+            "created_at": "2026-10-24T22:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lala_oiCap/status/2114127055923167267#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114121636471595367",
+            "text": "Parabéns Nikolas ,valeu pelo trabalho,tive muitas críticas a vc por um tempo ,mais obrigado pela ajuda aí nosso presidente Bolsonaro",
+            "author_username": "jefinholg1",
+            "author_name": "jefinholg1",
+            "created_at": "2026-10-24T22:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jefinholg1/status/2114121636471595367#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114121229976142159",
+            "text": "Um dos maiores responsáveis pela eleição do Flávio. \n\nParabéns, Nikolas. 👏🏻👏🏻",
+            "author_username": "YoMismoWillian",
+            "author_name": "YoMismoWillian",
+            "created_at": "2026-10-24T22:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/YoMismoWillian/status/2114121229976142159#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114129678462026149",
+            "text": "@nikolas_dm, “Até aqui nos ajudou o Senhor.” (1Sm 7:12) Obrigado pela força, coragem e determinação nesses 69 dias. Em cada dia difícil, sua fé nos deu ânimo para continuar. Que Deus renove suas forças e ilumine seus passos. Nossa gratidão vem do coração! 🙏🇧🇷",
+            "author_username": "PatriaVivaX",
+            "author_name": "PatriaVivaX",
+            "created_at": "2026-10-24T22:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PatriaVivaX/status/2114129678462026149#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114121399757590843",
+            "text": "O Brasil te ama! Gratidão Nikolas 💚",
+            "author_username": "butterfly1976__",
+            "author_name": "butterfly1976__",
+            "created_at": "2026-10-24T22:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/butterfly1976__/status/2114121399757590843#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114122897933439060",
+            "text": "",
+            "author_username": "motortattoos",
+            "author_name": "motortattoos",
+            "created_at": "2026-10-24T22:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/motortattoos/status/2114122897933439060#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114126758165492158",
+            "text": "Piá, você foi gigante!!! Merecidamente o Deputado Federal mais votado na história!🇧🇷🙏🇧🇷🙏",
+            "author_username": "_mineira_raiz_",
+            "author_name": "_mineira_raiz_",
+            "created_at": "2026-10-24T22:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_mineira_raiz_/status/2114126758165492158#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114329781948858871",
+            "text": "Parabéns Nikolas 👏👏👏, Deus te abençoe, toda a nossa luta não é em vão e a sua entrou prá história do Brasil isso é fazer a diferença 🤗🇧🇷💚",
+            "author_username": "Adrianalrangelo",
+            "author_name": "Adrianalrangelo",
+            "created_at": "2026-10-25T12:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Adrianalrangelo/status/2114329781948858871#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114164968568279539",
+            "text": "Obrigado Nikolas por tudo o que você está fazendo nessa campanha,  se nós formos vencedores e seremos devemos muito a você pelo esforço e empenho para buscar essa vitória para o Brasil.",
+            "author_username": "joaquim_lauri",
+            "author_name": "joaquim_lauri",
+            "created_at": "2026-10-25T01:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joaquim_lauri/status/2114164968568279539#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114121503352438818",
+            "text": "Gigante 🔝\nEstarás em livros de História daqui a 200 anos Como a Pessoa que Matou O Comunismo no Brasil 🤷",
+            "author_username": "nathanjspace",
+            "author_name": "nathanjspace",
+            "created_at": "2026-10-24T22:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nathanjspace/status/2114121503352438818#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114259527143223587",
+            "text": "Obrigada Nikolas. Obrigada Deus, pelo Nikolas, o Gayer, Paulo Figueiredo, Eduardo Bolsonaro, Pablo Marçal, Dallagnol, Pavanato, Flávio Bolsonaro e finalmente, muito obg pelo Jair Messias Bolsonaro",
+            "author_username": "AdeildeCecato",
+            "author_name": "AdeildeCecato",
+            "created_at": "2026-10-25T07:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AdeildeCecato/status/2114259527143223587#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114125256075903112",
+            "text": "Obrigada Nikolas. Vamos vencer",
+            "author_username": "Teresa_Fraga",
+            "author_name": "Teresa_Fraga",
+            "created_at": "2026-10-24T22:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Teresa_Fraga/status/2114125256075903112#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114179613341757543",
+            "text": "Nikolas, você deu o sangue nessa campanha. Bloquinho, vídeo, rua, rede… o cara não parou. Fez tudo que podia e ainda mais. Obrigado por não desistir do Brasil, guerreiro! 🙏",
+            "author_username": "sergio_vitoria",
+            "author_name": "sergio_vitoria",
+            "created_at": "2026-10-25T02:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sergio_vitoria/status/2114179613341757543#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114121936481702229",
+            "text": "MONSTROOOO \nVESTIU A CAMISA MAIS QUE QUALQUER UMM\nBOLSONARO ESTÁ ORGULHOSO DE VOCÊ",
+            "author_username": "Brazilian__News",
+            "author_name": "Brazilian__News",
+            "created_at": "2026-10-24T22:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Brazilian__News/status/2114121936481702229#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114125766741164233",
+            "text": "Vc é gigante!! Que orgulho imenso 🇧🇷",
+            "author_username": "21_Raposa",
+            "author_name": "21_Raposa",
+            "created_at": "2026-10-24T22:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/21_Raposa/status/2114125766741164233#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114132138526204359",
+            "text": "O SENHOR CAPACITA OS SEUS ESCOLHIDOS, DERRAMANDO DONS, FORTALECIMENTO, PERSEVERANÇA E INTREPIDEZ, E TUDO É DELE, PRA ELE, POR ELE, OBRIGADO SENHOR, ROGAMOS A TI, TU ÉS O NOSSO GENERAL DE BATALHA, VAI A FRENTE E NOS CONCEDA A VITÓRIA, ALELUIAS, ALELUIAS.",
+            "author_username": "prpguimaraes",
+            "author_name": "prpguimaraes",
+            "created_at": "2026-10-24T23:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/prpguimaraes/status/2114132138526204359#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114121131280023650",
+            "text": "OBRIGADA NIKOLAS FERREIRA, VOCÊ É GIGANTE! \nTE AMO MEU PIÁ 💚💛",
+            "author_username": "DWernqvist",
+            "author_name": "DWernqvist",
+            "created_at": "2026-10-24T22:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DWernqvist/status/2114121131280023650#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114398833299824649",
+            "text": "Grande Nikolas, votei e sempre votarei em você, orgulho de você ser mineiro como eu e representar tão bem o nosso estado, você é uma força gigante que o Brasil precisa, Deus te abençoe sempre e grandemente, Tmj 🙏🙏🇧🇷🇧🇷",
+            "author_username": "ValriaSant89920",
+            "author_name": "ValriaSant89920",
+            "created_at": "2026-10-25T16:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ValriaSant89920/status/2114398833299824649#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114120584892199117",
+            "parent_comment_id": "2114120584892199117",
+            "depth": 1
+          },
+          {
+            "id": "2114117649701441993",
+            "text": "Nikolas, entenda: nem em 100 anos você terá a grandeza e a representatividade do presidente Lula. Você é só um piá de merda, midiático e mentiroso.",
+            "author_username": "MiliciaPlantao",
+            "author_name": "MiliciaPlantao",
+            "created_at": "2026-10-24T22:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MiliciaPlantao/status/2114117649701441993#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114128404383416645",
+            "text": "É hora do Brasil 🇧🇷",
+            "author_username": "PauloDanie73211",
+            "author_name": "PauloDanie73211",
+            "created_at": "2026-10-24T22:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PauloDanie73211/status/2114128404383416645#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114118933766647953",
+            "text": "É amanhã",
+            "author_username": "elbetosan",
+            "author_name": "elbetosan",
+            "created_at": "2026-10-24T22:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/elbetosan/status/2114118933766647953#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114127347427201247",
+            "text": "",
+            "author_username": "Diba40sci",
+            "author_name": "Diba40sci",
+            "created_at": "2026-10-24T22:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Diba40sci/status/2114127347427201247#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114129319706730859",
+            "text": "Respeite o sentimento da metade do país ! Seu moleque",
+            "author_username": "Lucianonice13",
+            "author_name": "Lucianonice13",
+            "created_at": "2026-10-24T22:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Lucianonice13/status/2114129319706730859#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114134260709773772",
+            "text": "Hahahaha Presidente Lula ganhou 5 eleições cm as duas da Dilma,   nada apaga o legado do presidente Lula,  tu perto do Lula,  es um bostinha. 🤣🤣🤣",
+            "author_username": "Med176",
+            "author_name": "Med176",
+            "created_at": "2026-10-24T23:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Med176/status/2114134260709773772#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114118600512393288",
+            "text": "Ele avisou, agora tá provado que temos forças pra mudar o rumo do Brasil.\nVote 22 Flávio Bolsonaro",
+            "author_username": "Patriot69410451",
+            "author_name": "Patriot69410451",
+            "created_at": "2026-10-24T22:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Patriot69410451/status/2114118600512393288#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114119650468372865",
+            "text": "DIA 25 é 22",
+            "author_username": "M4RC3LO_O",
+            "author_name": "M4RC3LO_O",
+            "created_at": "2026-10-24T22:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/M4RC3LO_O/status/2114119650468372865#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114513522734641353",
+            "text": "",
+            "author_username": "Luiz_Orlandof",
+            "author_name": "Luiz_Orlandof",
+            "created_at": "2026-10-26T00:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Luiz_Orlandof/status/2114513522734641353#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114553071778894330",
+            "text": "Poupe o braço para a punheta 😂😂😂😂\nSe dedica a outra merda, na política você não vale um caralho",
+            "author_username": "LuisMDAguiar",
+            "author_name": "LuisMDAguiar",
+            "created_at": "2026-10-26T03:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LuisMDAguiar/status/2114553071778894330#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114124243344732174",
+            "text": "Nikolas, muito obrigado por tudo que você fez nessa campanha. \n\nÀ vitória amanhã!",
+            "author_username": "ricpaulistano",
+            "author_name": "ricpaulistano",
+            "created_at": "2026-10-24T22:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ricpaulistano/status/2114124243344732174#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114124465168580979",
+            "text": "Teu braço dói de ficar pendurado no saco do Vorcaro ops do Dani ♥️",
+            "author_username": "Vagner34458341",
+            "author_name": "Vagner34458341",
+            "created_at": "2026-10-24T22:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Vagner34458341/status/2114124465168580979#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114122027921465676",
+            "text": "Coitado, nem nascendo denovo vc vai ter a relevância que o lula tem.",
+            "author_username": "Gusa5788Gustavo",
+            "author_name": "Gusa5788Gustavo",
+            "created_at": "2026-10-24T22:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Gusa5788Gustavo/status/2114122027921465676#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114118352608063871",
+            "text": "Incrível que tudo começou com esse homem sozinho no plenário, e olha só o que o trabalho duro deu! Hoje o Brasil tem uma grande parcela de pessoas alinhadas à direita, e tudo isso começou com @jairbolsonaro! Muito obrigado capitão!",
+            "author_username": "guilherme51siq1",
+            "author_name": "guilherme51siq1",
+            "created_at": "2026-10-24T22:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/guilherme51siq1/status/2114118352608063871#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114322607088529539",
+            "text": "Parabens Nikolas vc foi GIGANTE. Deus te abençoe e guarde",
+            "author_username": "mmbvalle",
+            "author_name": "mmbvalle",
+            "created_at": "2026-10-25T11:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mmbvalle/status/2114322607088529539#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114689182748610978",
+            "text": "kkkkkkkkkkkkkkkkkkkkk tweet envelhecendo como leite fora da geladeira. chora mais, patético",
+            "author_username": "mayaratp92",
+            "author_name": "mayaratp92",
+            "created_at": "2026-10-26T12:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mayaratp92/status/2114689182748610978#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114122202576453903",
+            "text": "Nem dá pra rasgar nada , né?",
+            "author_username": "JoaoMendez333",
+            "author_name": "JoaoMendez333",
+            "created_at": "2026-10-24T22:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JoaoMendez333/status/2114122202576453903#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114129969571827784",
+            "text": "Nikolas para voce chegar a ter história tem que sair da fralda e andar muito ainda. Quem é Nikolas diante do mundo? NINGUÉM \n\nO dia que você chegar a ter 1% do reconhecimento que o Lula tem aí a gente conversa.",
+            "author_username": "karol_kgh",
+            "author_name": "karol_kgh",
+            "created_at": "2026-10-24T23:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/karol_kgh/status/2114129969571827784#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114117638238380070",
+            "text": "",
+            "author_username": "RuizStorti",
+            "author_name": "RuizStorti",
+            "created_at": "2026-10-24T22:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RuizStorti/status/2114117638238380070#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114125458862178618",
+            "text": "Venceremos! 🇧🇷🇧🇷",
+            "author_username": "julianasooousa",
+            "author_name": "julianasooousa",
+            "created_at": "2026-10-24T22:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/julianasooousa/status/2114125458862178618#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114145201560113436",
+            "text": "Deus te abençoe, sem vc tudo isso não seria tão lindo como foi. \nDeus renove as suas forças, nosso lindo piá 😘😘😘",
+            "author_username": "isaura_villar",
+            "author_name": "isaura_villar",
+            "created_at": "2026-10-25T00:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/isaura_villar/status/2114145201560113436#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114141719985873003",
+            "text": "Descansa, q os anjos te protejam. \nO Brasil precisa de você.",
+            "author_username": "Gabimar2525",
+            "author_name": "Gabimar2525",
+            "created_at": "2026-10-24T23:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Gabimar2525/status/2114141719985873003#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114746750367830460",
+            "text": "Hahahaha deveria doer a língua de falar tanta besteira",
+            "author_username": "jssica_maiara",
+            "author_name": "jssica_maiara",
+            "created_at": "2026-10-26T15:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jssica_maiara/status/2114746750367830460#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114184280775524818",
+            "text": "Nossa, como ele é trabalhador e esforçado!",
+            "author_username": "CaiioCaiiu",
+            "author_name": "CaiioCaiiu",
+            "created_at": "2026-10-25T02:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CaiioCaiiu/status/2114184280775524818#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114148034833523124",
+            "text": "Obrigada, @Nikolas_dm! Tu foste GIGANTE nesta campanha! Mostraste força, coragem e determinação! Meu reconhecimento e respeito! 🙏👏🇧🇷💙",
+            "author_username": "HelenaF15507876",
+            "author_name": "HelenaF15507876",
+            "created_at": "2026-10-25T00:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/HelenaF15507876/status/2114148034833523124#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114318813252428174",
+            "text": "😂😂😂😂 você é grande, Deus te abençoe 🙏🏼",
+            "author_username": "CLAUDIAREGnqkl",
+            "author_name": "CLAUDIAREGnqkl",
+            "created_at": "2026-10-25T11:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/CLAUDIAREGnqkl/status/2114318813252428174#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114180188871541029",
+            "text": "Kkkkkkkk🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣. Mas, amanhã teremos a vitória da direita! 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🙌",
+            "author_username": "AnaMar58899614",
+            "author_name": "AnaMar58899614",
+            "created_at": "2026-10-25T02:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AnaMar58899614/status/2114180188871541029#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114146883522138151",
+            "text": "Vá descansar rapaz, agora é votar e continuar orando.",
+            "author_username": "maria_lo4",
+            "author_name": "maria_lo4",
+            "created_at": "2026-10-25T00:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maria_lo4/status/2114146883522138151#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114143395224457639",
+            "text": "Nikolas, vc não vale o dedo que o Presidente LULA perdeu Trabalhando. Recolha-se a sua insignificância política",
+            "author_username": "xvpensativa",
+            "author_name": "xvpensativa",
+            "created_at": "2026-10-24T23:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/xvpensativa/status/2114143395224457639#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114226009729835307",
+            "text": "Usa o outro para dar boas vindas a prosperidade.",
+            "author_username": "RafaelManzotti_",
+            "author_name": "RafaelManzotti_",
+            "created_at": "2026-10-25T05:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RafaelManzotti_/status/2114226009729835307#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114122721848180800",
+            "text": "Amanhã Será Resenha DMS",
+            "author_username": "nathanjspace",
+            "author_name": "nathanjspace",
+            "created_at": "2026-10-24T22:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nathanjspace/status/2114122721848180800#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114119820614484210",
+            "text": "A voz de quem não se cala diante do sistema. Você foi gigante, @nikolas_dm",
+            "author_username": "juce_m3817",
+            "author_name": "juce_m3817",
+            "created_at": "2026-10-24T22:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/juce_m3817/status/2114119820614484210#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114342282191159794",
+            "text": "",
+            "author_username": "lechatn00180431",
+            "author_name": "lechatn00180431",
+            "created_at": "2026-10-25T13:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lechatn00180431/status/2114342282191159794#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114118183267524645",
+            "text": "Parabéns Nikolas! Você foi gigante nessa eleição. Nós eleitores seremos sempre gratos por todo seu esforço! Não é fácil ficar longe da família e você fez todo sacrifício para que nesse segundo turno a campanha continuasse firme. Obrigado mais uma vez!",
+            "author_username": "matheus_vandre",
+            "author_name": "matheus_vandre",
+            "created_at": "2026-10-24T22:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/matheus_vandre/status/2114118183267524645#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114517104225312842",
+            "text": "Chupetinha vai chorar a noite toda. Rs",
+            "author_username": "JulioCardosoJr",
+            "author_name": "JulioCardosoJr",
+            "created_at": "2026-10-26T00:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JulioCardosoJr/status/2114517104225312842#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          },
+          {
+            "id": "2114167667519377825",
+            "text": "Calma, nao podemos ainda cantar vitória.",
+            "author_username": "robdesampa",
+            "author_name": "robdesampa",
+            "created_at": "2026-10-25T01:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/robdesampa/status/2114167667519377825#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114117306511151114",
+            "parent_comment_id": "2114117306511151114",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 22,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "nikolas_ferreira_25_26_out_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114756935354290650",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114756935354290650",
+      "collected_at": "2026-10-26T14:13:05-03:00",
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "fb28eb4a-24b3-4642-837f-b10c4d0691fa",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114756935354290650",
+        "text": "Finalmente o Lula receberá a herança maldita dele mesmo.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-26T16:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114756935354290650#m",
+        "metrics": {
+          "like_count": 216,
+          "reply_count": 2,
+          "retweet_count": 1,
+          "quote_count": 15
+        }
+      }
+    }
+  ],
+  "comments": []
+}

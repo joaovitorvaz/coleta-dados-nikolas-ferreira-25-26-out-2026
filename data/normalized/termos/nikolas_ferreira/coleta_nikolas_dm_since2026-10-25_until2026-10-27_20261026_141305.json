@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolas_dm",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "fb28eb4a-24b3-4642-837f-b10c4d0691fa",
+    "collected_at": "2026-10-26T14:13:05-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 15
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114756935354290650",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114756935354290650",
+      "parent_post_id": null,
+      "thread_root_id": "2114756935354290650",
+      "author": {
+        "platform_id": null,
+        "display_name": "nikolas_dm",
+        "username": "nikolas_dm",
+        "profile_url": "https://x.com/nikolas_dm"
+      },
+      "text": "Finalmente o Lula receberá a herança maldita dele mesmo.",
+      "created_at": "2026-10-26T16:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T14:13:05-03:00",
+      "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114756935354290650#m",
+      "metrics": {
+        "like_count": 216,
+        "reply_count": 2,
+        "retweet_count": 1,
+        "quote_count": 15
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "fb28eb4a-24b3-4642-837f-b10c4d0691fa",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 22,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114756935354290650",
+        "text": "Finalmente o Lula receberá a herança maldita dele mesmo.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-26T16:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114756935354290650#m",
+        "metrics": {
+          "like_count": 216,
+          "reply_count": 2,
+          "retweet_count": 1,
+          "quote_count": 15
+        }
+      },
+      "normalized": {
+        "text_length": 56,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
