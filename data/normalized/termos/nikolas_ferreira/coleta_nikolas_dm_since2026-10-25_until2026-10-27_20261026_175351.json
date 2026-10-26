@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolas_dm",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "f8b3836f-bf5e-40e1-9ef0-9c3d900ab452",
+    "collected_at": "2026-10-26T17:53:51-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 1,
+      "records_total": 2,
+      "skipped_duplicate": 652
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114810704297422938",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114810704297422938",
+      "parent_post_id": null,
+      "thread_root_id": "2114810704297422938",
+      "author": {
+        "platform_id": null,
+        "display_name": "nikolas_dm",
+        "username": "nikolas_dm",
+        "profile_url": "https://x.com/nikolas_dm"
+      },
+      "text": "São tão previsíveis: pregam democracia, mas não toleram oposição.",
+      "created_at": "2026-10-26T20:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T17:53:51-03:00",
+      "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114810704297422938#m",
+      "metrics": {
+        "like_count": 158,
+        "reply_count": 1,
+        "retweet_count": 2,
+        "quote_count": 15
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f8b3836f-bf5e-40e1-9ef0-9c3d900ab452",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114810704297422938",
+        "text": "São tão previsíveis: pregam democracia, mas não toleram oposição.",
+        "author_username": "nikolas_dm",
+        "author_name": "nikolas_dm",
+        "created_at": "2026-10-26T20:05:00+00:00",
+        "permalink": "https://nitter.netbub.com/nikolas_dm/status/2114810704297422938#m",
+        "metrics": {
+          "like_count": 158,
+          "reply_count": 1,
+          "retweet_count": 2,
+          "quote_count": 15
+        }
+      },
+      "normalized": {
+        "text_length": 65,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114813181478453690",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114813181478453690",
+      "post_id": "2114810704297422938",
+      "parent_comment_id": "2114810704297422938",
+      "thread_root_id": "2114810704297422938",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "SantosOpressivo",
+        "username": "SantosOpressivo",
+        "profile_url": null
+      },
+      "text": "Ué, ele vai sair do país sem responder pela acusação de lavagem de dinheiro junto com o Willer Tomaz?\n\nMas bandido bom é bandido morto ou bandido bom é bandido que foge pros EUA na surdina?\n\nNão to entendendo vocês",
+      "created_at": "2026-10-26T20:15:00+00:00",
+      "collected_at": "2026-10-26T17:53:51-03:00",
+      "parent_post_url": "https://nitter.netbub.com/SantosOpressivo/status/2114813181478453690#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "f8b3836f-bf5e-40e1-9ef0-9c3d900ab452",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114813181478453690",
+        "text": "Ué, ele vai sair do país sem responder pela acusação de lavagem de dinheiro junto com o Willer Tomaz?\n\nMas bandido bom é bandido morto ou bandido bom é bandido que foge pros EUA na surdina?\n\nNão to entendendo vocês",
+        "author_username": "SantosOpressivo",
+        "author_name": "SantosOpressivo",
+        "created_at": "2026-10-26T20:15:00+00:00",
+        "permalink": "https://nitter.netbub.com/SantosOpressivo/status/2114813181478453690#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114810704297422938",
+        "parent_comment_id": "2114810704297422938",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 214,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
