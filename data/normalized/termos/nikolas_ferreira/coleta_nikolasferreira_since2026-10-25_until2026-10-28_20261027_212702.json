@@ -1,0 +1,2609 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "nikolasferreira",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+    "collected_at": "2026-10-27T21:27:02-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 39,
+      "comments": 0,
+      "records_total": 39,
+      "skipped_duplicate": 792
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115229358604390610",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115229358604390610",
+      "parent_post_id": null,
+      "thread_root_id": "2115229358604390610",
+      "author": {
+        "platform_id": null,
+        "display_name": "laromadelsur",
+        "username": "laromadelsur",
+        "profile_url": "https://x.com/laromadelsur"
+      },
+      "text": "Brasil le quita el pasaporte a los principales referentes del partido opositor, ante lo que es un apriete del sistema judicial y lula para asegurarse la impunidad de la corte, ante lo que era evidentemente un proceso de juicios politicos",
+      "created_at": "2026-10-27T23:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/laromadelsur/status/2115229358604390610#m",
+      "metrics": {
+        "like_count": 583,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "quote_count": 18
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115229358604390610",
+        "text": "Brasil le quita el pasaporte a los principales referentes del partido opositor, ante lo que es un apriete del sistema judicial y lula para asegurarse la impunidad de la corte, ante lo que era evidentemente un proceso de juicios politicos",
+        "author_username": "laromadelsur",
+        "author_name": "laromadelsur",
+        "created_at": "2026-10-27T23:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/laromadelsur/status/2115229358604390610#m",
+        "metrics": {
+          "like_count": 583,
+          "reply_count": 0,
+          "retweet_count": 3,
+          "quote_count": 18
+        }
+      },
+      "normalized": {
+        "text_length": 237,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115226324683952199",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115226324683952199",
+      "parent_post_id": null,
+      "thread_root_id": "2115226324683952199",
+      "author": {
+        "platform_id": null,
+        "display_name": "LulaRegimeWatch",
+        "username": "LulaRegimeWatch",
+        "profile_url": "https://x.com/LulaRegimeWatch"
+      },
+      "text": "RIGHT AFTER THE ELECTION, THE CRACKDOWN ACCELERATES.\n\nWith Flávio Bolsonaro (@FlavioBolsonaro) already in the US, Pedro Rousseff has requested the seizure of Nikolas Ferreira’s passport (@nikolas_dm).\n\nThe persecutory regime against the opposition is ramping up fast: serial lawfare, backed by the Supreme Court (@STF_oficial).\n\nThose who lose at the ballot box are trying to win in the courts. The pattern is becoming clearer by the day.\n\n#NikolasFerreira #FlavioBolsonaro #Lawfare #SupremeCourt #Opposition #Brazil #BrazilElection2026 #Freedom #PoliticalPersecution #Bolsonaro #Trump #WhiteHouse",
+      "created_at": "2026-10-27T23:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/LulaRegimeWatch/status/2115226324683952199#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115226324683952199",
+        "text": "RIGHT AFTER THE ELECTION, THE CRACKDOWN ACCELERATES.\n\nWith Flávio Bolsonaro (@FlavioBolsonaro) already in the US, Pedro Rousseff has requested the seizure of Nikolas Ferreira’s passport (@nikolas_dm).\n\nThe persecutory regime against the opposition is ramping up fast: serial lawfare, backed by the Supreme Court (@STF_oficial).\n\nThose who lose at the ballot box are trying to win in the courts. The pattern is becoming clearer by the day.\n\n#NikolasFerreira #FlavioBolsonaro #Lawfare #SupremeCourt #Opposition #Brazil #BrazilElection2026 #Freedom #PoliticalPersecution #Bolsonaro #Trump #WhiteHouse",
+        "author_username": "LulaRegimeWatch",
+        "author_name": "LulaRegimeWatch",
+        "created_at": "2026-10-27T23:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LulaRegimeWatch/status/2115226324683952199#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 597,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115225961264206334",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115225961264206334",
+      "parent_post_id": null,
+      "thread_root_id": "2115225961264206334",
+      "author": {
+        "platform_id": null,
+        "display_name": "alucard_again",
+        "username": "alucard_again",
+        "profile_url": "https://x.com/alucard_again"
+      },
+      "text": "paciente 02 de barbacena o primeiro é a retardada da tia dele",
+      "created_at": "2026-10-27T23:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/alucard_again/status/2115225961264206334#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 5,
+        "retweet_count": 7,
+        "quote_count": 159
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115225961264206334",
+        "text": "paciente 02 de barbacena o primeiro é a retardada da tia dele",
+        "author_username": "alucard_again",
+        "author_name": "alucard_again",
+        "created_at": "2026-10-27T23:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/alucard_again/status/2115225961264206334#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 5,
+          "retweet_count": 7,
+          "quote_count": 159
+        }
+      },
+      "normalized": {
+        "text_length": 61,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115224064466010181",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115224064466010181",
+      "parent_post_id": null,
+      "thread_root_id": "2115224064466010181",
+      "author": {
+        "platform_id": null,
+        "display_name": "Metropoles",
+        "username": "Metropoles",
+        "profile_url": "https://x.com/Metropoles"
+      },
+      "text": "🏛️ POLÍTICA | \"Imbecil\", reage Nikolas após Rousseff pedir apreensão de seu passaporte\n\nDeputado eleito Pedro Rousseff (PF) acionou PGR para \"alerta\" sobre possibilidade de Nikolas fugir do país após Flávio.",
+      "created_at": "2026-10-27T23:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/Metropoles/status/2115224064466010181#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 28,
+        "retweet_count": 14,
+        "quote_count": 144
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115224064466010181",
+        "text": "🏛️ POLÍTICA | \"Imbecil\", reage Nikolas após Rousseff pedir apreensão de seu passaporte\n\nDeputado eleito Pedro Rousseff (PF) acionou PGR para \"alerta\" sobre possibilidade de Nikolas fugir do país após Flávio.",
+        "author_username": "Metropoles",
+        "author_name": "Metropoles",
+        "created_at": "2026-10-27T23:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Metropoles/status/2115224064466010181#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 28,
+          "retweet_count": 14,
+          "quote_count": 144
+        }
+      },
+      "normalized": {
+        "text_length": 207,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115222309623767124",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115222309623767124",
+      "parent_post_id": null,
+      "thread_root_id": "2115222309623767124",
+      "author": {
+        "platform_id": null,
+        "display_name": "mendlowicz",
+        "username": "mendlowicz",
+        "profile_url": "https://x.com/mendlowicz"
+      },
+      "text": "Querem tocar fogo no Brasil",
+      "created_at": "2026-10-27T23:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/mendlowicz/status/2115222309623767124#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 10,
+        "retweet_count": 20,
+        "quote_count": 290
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115222309623767124",
+        "text": "Querem tocar fogo no Brasil",
+        "author_username": "mendlowicz",
+        "author_name": "mendlowicz",
+        "created_at": "2026-10-27T23:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mendlowicz/status/2115222309623767124#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 10,
+          "retweet_count": 20,
+          "quote_count": 290
+        }
+      },
+      "normalized": {
+        "text_length": 27,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115218880876388752",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115218880876388752",
+      "parent_post_id": null,
+      "thread_root_id": "2115218880876388752",
+      "author": {
+        "platform_id": null,
+        "display_name": "AndreRvza",
+        "username": "AndreRvza",
+        "profile_url": "https://x.com/AndreRvza"
+      },
+      "text": "Democracia pujante👍🏼",
+      "created_at": "2026-10-27T23:07:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/AndreRvza/status/2115218880876388752#m",
+      "metrics": {
+        "like_count": 130,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 11
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115218880876388752",
+        "text": "Democracia pujante👍🏼",
+        "author_username": "AndreRvza",
+        "author_name": "AndreRvza",
+        "created_at": "2026-10-27T23:07:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AndreRvza/status/2115218880876388752#m",
+        "metrics": {
+          "like_count": 130,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 11
+        }
+      },
+      "normalized": {
+        "text_length": 20,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115217435955478659",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115217435955478659",
+      "parent_post_id": null,
+      "thread_root_id": "2115217435955478659",
+      "author": {
+        "platform_id": null,
+        "display_name": "ducavendish",
+        "username": "ducavendish",
+        "profile_url": "https://x.com/ducavendish"
+      },
+      "text": "Com base no que? Implantaram a ditadura?",
+      "created_at": "2026-10-27T23:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/ducavendish/status/2115217435955478659#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 10,
+        "retweet_count": 13,
+        "quote_count": 249
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "pl"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115217435955478659",
+        "text": "Com base no que? Implantaram a ditadura?",
+        "author_username": "ducavendish",
+        "author_name": "ducavendish",
+        "created_at": "2026-10-27T23:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ducavendish/status/2115217435955478659#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 10,
+          "retweet_count": 13,
+          "quote_count": 249
+        }
+      },
+      "normalized": {
+        "text_length": 40,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115216847452996000",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115216847452996000",
+      "parent_post_id": null,
+      "thread_root_id": "2115216847452996000",
+      "author": {
+        "platform_id": null,
+        "display_name": "rafaelgloves",
+        "username": "rafaelgloves",
+        "profile_url": "https://x.com/rafaelgloves"
+      },
+      "text": "Bom, já falei o que penso e o que farão no Brasil.",
+      "created_at": "2026-10-27T22:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/rafaelgloves/status/2115216847452996000#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 12,
+        "retweet_count": 115,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115216847452996000",
+        "text": "Bom, já falei o que penso e o que farão no Brasil.",
+        "author_username": "rafaelgloves",
+        "author_name": "rafaelgloves",
+        "created_at": "2026-10-27T22:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rafaelgloves/status/2115216847452996000#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 12,
+          "retweet_count": 115,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 50,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115215743478288562",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115215743478288562",
+      "parent_post_id": null,
+      "thread_root_id": "2115215743478288562",
+      "author": {
+        "platform_id": null,
+        "display_name": "RafaelFontana",
+        "username": "RafaelFontana",
+        "profile_url": "https://x.com/RafaelFontana"
+      },
+      "text": "Hahahaha vai ser burro no quinto dos infernos 😅😅\nDNA Rousseff nunca decepciona.",
+      "created_at": "2026-10-27T22:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/RafaelFontana/status/2115215743478288562#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 5,
+        "retweet_count": 77,
+        "quote_count": 519
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115215743478288562",
+        "text": "Hahahaha vai ser burro no quinto dos infernos 😅😅\nDNA Rousseff nunca decepciona.",
+        "author_username": "RafaelFontana",
+        "author_name": "RafaelFontana",
+        "created_at": "2026-10-27T22:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RafaelFontana/status/2115215743478288562#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 5,
+          "retweet_count": 77,
+          "quote_count": 519
+        }
+      },
+      "normalized": {
+        "text_length": 79,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115212780257382717",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115212780257382717",
+      "parent_post_id": null,
+      "thread_root_id": "2115212780257382717",
+      "author": {
+        "platform_id": null,
+        "display_name": "Rconstantino",
+        "username": "Rconstantino",
+        "profile_url": "https://x.com/Rconstantino"
+      },
+      "text": "Os tiranos perderam qualquer pudor!!!",
+      "created_at": "2026-10-27T22:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/Rconstantino/status/2115212780257382717#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 30,
+        "retweet_count": 160,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115212780257382717",
+        "text": "Os tiranos perderam qualquer pudor!!!",
+        "author_username": "Rconstantino",
+        "author_name": "Rconstantino",
+        "created_at": "2026-10-27T22:43:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Rconstantino/status/2115212780257382717#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 30,
+          "retweet_count": 160,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 37,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115212218367143992",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115212218367143992",
+      "parent_post_id": null,
+      "thread_root_id": "2115212218367143992",
+      "author": {
+        "platform_id": null,
+        "display_name": "flaviogordon",
+        "username": "flaviogordon",
+        "profile_url": "https://x.com/flaviogordon"
+      },
+      "text": "A ditadura lulo-dino-alexandrina quer destruir a oposição no Brasil.",
+      "created_at": "2026-10-27T22:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/flaviogordon/status/2115212218367143992#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 11,
+        "retweet_count": 129,
+        "quote_count": 995
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115212218367143992",
+        "text": "A ditadura lulo-dino-alexandrina quer destruir a oposição no Brasil.",
+        "author_username": "flaviogordon",
+        "author_name": "flaviogordon",
+        "created_at": "2026-10-27T22:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/flaviogordon/status/2115212218367143992#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 11,
+          "retweet_count": 129,
+          "quote_count": 995
+        }
+      },
+      "normalized": {
+        "text_length": 68,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115212007087526241",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115212007087526241",
+      "parent_post_id": null,
+      "thread_root_id": "2115212007087526241",
+      "author": {
+        "platform_id": null,
+        "display_name": "MikeBenzCyber",
+        "username": "MikeBenzCyber",
+        "profile_url": "https://x.com/MikeBenzCyber"
+      },
+      "text": "The Lula regime is now going around seizing the passports of every major figure associated with the political party that beat him in the general election 3 weeks ago.",
+      "created_at": "2026-10-27T22:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/MikeBenzCyber/status/2115212007087526241#m",
+      "metrics": {
+        "like_count": 89,
+        "reply_count": 219,
+        "retweet_count": 2,
+        "quote_count": 6
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115212007087526241",
+        "text": "The Lula regime is now going around seizing the passports of every major figure associated with the political party that beat him in the general election 3 weeks ago.",
+        "author_username": "MikeBenzCyber",
+        "author_name": "MikeBenzCyber",
+        "created_at": "2026-10-27T22:40:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MikeBenzCyber/status/2115212007087526241#m",
+        "metrics": {
+          "like_count": 89,
+          "reply_count": 219,
+          "retweet_count": 2,
+          "quote_count": 6
+        }
+      },
+      "normalized": {
+        "text_length": 166,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115209297994875281",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115209297994875281",
+      "parent_post_id": null,
+      "thread_root_id": "2115209297994875281",
+      "author": {
+        "platform_id": null,
+        "display_name": "GabzosZ",
+        "username": "GabzosZ",
+        "profile_url": "https://x.com/GabzosZ"
+      },
+      "text": "Odeio o chupetinha, mas o sobrinho da ex presidente (pois é só por isso que ele é lembrado) consegue ser mais patético.",
+      "created_at": "2026-10-27T22:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/GabzosZ/status/2115209297994875281#m",
+      "metrics": {
+        "like_count": 328,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 6
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115209297994875281",
+        "text": "Odeio o chupetinha, mas o sobrinho da ex presidente (pois é só por isso que ele é lembrado) consegue ser mais patético.",
+        "author_username": "GabzosZ",
+        "author_name": "GabzosZ",
+        "created_at": "2026-10-27T22:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GabzosZ/status/2115209297994875281#m",
+        "metrics": {
+          "like_count": 328,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 6
+        }
+      },
+      "normalized": {
+        "text_length": 119,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115196211238203668",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115196211238203668",
+      "parent_post_id": null,
+      "thread_root_id": "2115196211238203668",
+      "author": {
+        "platform_id": null,
+        "display_name": "M2_medeiross",
+        "username": "M2_medeiross",
+        "profile_url": "https://x.com/M2_medeiross"
+      },
+      "text": "ui, pelo visto a possível candidatura do chupeta já miou :(",
+      "created_at": "2026-10-27T21:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/M2_medeiross/status/2115196211238203668#m",
+      "metrics": {
+        "like_count": 137,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115196211238203668",
+        "text": "ui, pelo visto a possível candidatura do chupeta já miou :(",
+        "author_username": "M2_medeiross",
+        "author_name": "M2_medeiross",
+        "created_at": "2026-10-27T21:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/M2_medeiross/status/2115196211238203668#m",
+        "metrics": {
+          "like_count": 137,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 59,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115132009144090733",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115132009144090733",
+      "parent_post_id": null,
+      "thread_root_id": "2115132009144090733",
+      "author": {
+        "platform_id": null,
+        "display_name": "kingbunglelw",
+        "username": "kingbunglelw",
+        "profile_url": "https://x.com/kingbunglelw"
+      },
+      "text": "Apagou pq, @nikolas_dm? Deem RT. 🚨⚠️\n\nNo primeiro print ele posta que Flávio Bolsonaro, o candidato de 60 milhões de votos, fugiu do país \"A PÉ\". Depois, apaga tudo, arranca o detalhe que ele sabia \"a pé\" e enfia um \"(supostamente)\". \n\nFalou demais e quer abafar algo?",
+      "created_at": "2026-10-27T17:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/kingbunglelw/status/2115132009144090733#m",
+      "metrics": {
+        "like_count": 180,
+        "reply_count": 176,
+        "retweet_count": 4,
+        "quote_count": 14
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115132009144090733",
+        "text": "Apagou pq, @nikolas_dm? Deem RT. 🚨⚠️\n\nNo primeiro print ele posta que Flávio Bolsonaro, o candidato de 60 milhões de votos, fugiu do país \"A PÉ\". Depois, apaga tudo, arranca o detalhe que ele sabia \"a pé\" e enfia um \"(supostamente)\". \n\nFalou demais e quer abafar algo?",
+        "author_username": "kingbunglelw",
+        "author_name": "kingbunglelw",
+        "created_at": "2026-10-27T17:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/kingbunglelw/status/2115132009144090733#m",
+        "metrics": {
+          "like_count": 180,
+          "reply_count": 176,
+          "retweet_count": 4,
+          "quote_count": 14
+        }
+      },
+      "normalized": {
+        "text_length": 268,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114915299342328212",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114915299342328212",
+      "parent_post_id": null,
+      "thread_root_id": "2114915299342328212",
+      "author": {
+        "platform_id": null,
+        "display_name": "dominguesvero",
+        "username": "dominguesvero",
+        "profile_url": "https://x.com/dominguesvero"
+      },
+      "text": "O MBL foi o percursor dessa direita digital que se populariza fazendo gracinha. O que o Nikolas Ferreira é hoje o Arthur do Val era na época dele, inclusive o Pavanato é cria do MBL.\n\nO MBL invadia faculdades públicas pra  fazer cortes e memes falando que as faculdades públicas eram “antro de doutrinação esquerdista”. Foram os percursores dessa onda anti intelectual que hoje o Nikolas e o Pavanato nadam de braçada.\n\nO Renan Santos é MUITO cara de pau em falar que o bolsonarismo é uma direita imbecilizada que se afasta da intelectualidade porque quem começou isso foram eles do MBL.\n\nO MBL sempre atacou a pauta LGBT, o feminismo, a luta antirracista, sempre viveu de fazer cortes sensacionalistas e de levar a política como uma grande zombaria. E aí hoje a porra do Renan Santos quer criticar o Pavanato falando que ele só fala de banheiro trans e não leva a política a sério. Ué, foram vocês que começaram com isso de tornar a política um grande meme desviando o foco das discussões realmente importantes.\n\nO MBL foi quem começou a tornar a direita essa merda que ela é hoje!! É que agora o filho ficou muito feio e eles fingem que não pariram essa merda.",
+      "created_at": "2026-10-27T03:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/dominguesvero/status/2114915299342328212#m",
+      "metrics": {
+        "like_count": 126,
+        "reply_count": 149,
+        "retweet_count": 4,
+        "quote_count": 13
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "direita"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114915299342328212",
+        "text": "O MBL foi o percursor dessa direita digital que se populariza fazendo gracinha. O que o Nikolas Ferreira é hoje o Arthur do Val era na época dele, inclusive o Pavanato é cria do MBL.\n\nO MBL invadia faculdades públicas pra  fazer cortes e memes falando que as faculdades públicas eram “antro de doutrinação esquerdista”. Foram os percursores dessa onda anti intelectual que hoje o Nikolas e o Pavanato nadam de braçada.\n\nO Renan Santos é MUITO cara de pau em falar que o bolsonarismo é uma direita imbecilizada que se afasta da intelectualidade porque quem começou isso foram eles do MBL.\n\nO MBL sempre atacou a pauta LGBT, o feminismo, a luta antirracista, sempre viveu de fazer cortes sensacionalistas e de levar a política como uma grande zombaria. E aí hoje a porra do Renan Santos quer criticar o Pavanato falando que ele só fala de banheiro trans e não leva a política a sério. Ué, foram vocês que começaram com isso de tornar a política um grande meme desviando o foco das discussões realmente importantes.\n\nO MBL foi quem começou a tornar a direita essa merda que ela é hoje!! É que agora o filho ficou muito feio e eles fingem que não pariram essa merda.",
+        "author_username": "dominguesvero",
+        "author_name": "dominguesvero",
+        "created_at": "2026-10-27T03:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dominguesvero/status/2114915299342328212#m",
+        "metrics": {
+          "like_count": 126,
+          "reply_count": 149,
+          "retweet_count": 4,
+          "quote_count": 13
+        }
+      },
+      "normalized": {
+        "text_length": 1162,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114904395444035752",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114904395444035752",
+      "parent_post_id": null,
+      "thread_root_id": "2114904395444035752",
+      "author": {
+        "platform_id": null,
+        "display_name": "OlaLipe_",
+        "username": "OlaLipe_",
+        "profile_url": "https://x.com/OlaLipe_"
+      },
+      "text": "🚨 URGENTE! 🚨\n\nO Ministro André Mendonça ACEITOU o pedido do deputado Nikolas Ferreira (PL) em co-autoria com Flávio Bolsonaro (PL) e mais outros 35 deputados e senadores e informou que TEREMOS NOVAS ELEIÇÕES! Espalhem essa informação para todos!\n\nA data será OUTUBRO DE 2030!",
+      "created_at": "2026-10-27T02:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/OlaLipe_/status/2114904395444035752#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 3,
+        "retweet_count": 21,
+        "quote_count": 83
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "bolsonaro",
+        "pl"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114904395444035752",
+        "text": "🚨 URGENTE! 🚨\n\nO Ministro André Mendonça ACEITOU o pedido do deputado Nikolas Ferreira (PL) em co-autoria com Flávio Bolsonaro (PL) e mais outros 35 deputados e senadores e informou que TEREMOS NOVAS ELEIÇÕES! Espalhem essa informação para todos!\n\nA data será OUTUBRO DE 2030!",
+        "author_username": "OlaLipe_",
+        "author_name": "OlaLipe_",
+        "created_at": "2026-10-27T02:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/OlaLipe_/status/2114904395444035752#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 3,
+          "retweet_count": 21,
+          "quote_count": 83
+        }
+      },
+      "normalized": {
+        "text_length": 275,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114764326032560626",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114764326032560626",
+      "parent_post_id": null,
+      "thread_root_id": "2114764326032560626",
+      "author": {
+        "platform_id": null,
+        "display_name": "historia_pensar",
+        "username": "historia_pensar",
+        "profile_url": "https://x.com/historia_pensar"
+      },
+      "text": "A cidade baiana de Luís Eduardo Magalhães, onde Nikolas Ferreira gravou aquele vídeo estereotipado sobre os nordestinos, aumentou em 20% os votos para Lula no segundo turno.\n\nObrigado, Nikolas.",
+      "created_at": "2026-10-26T17:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/historia_pensar/status/2114764326032560626#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 23,
+        "retweet_count": 338,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114764326032560626",
+        "text": "A cidade baiana de Luís Eduardo Magalhães, onde Nikolas Ferreira gravou aquele vídeo estereotipado sobre os nordestinos, aumentou em 20% os votos para Lula no segundo turno.\n\nObrigado, Nikolas.",
+        "author_username": "historia_pensar",
+        "author_name": "historia_pensar",
+        "created_at": "2026-10-26T17:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/historia_pensar/status/2114764326032560626#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 23,
+          "retweet_count": 338,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 193,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114759565325565998",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114759565325565998",
+      "parent_post_id": null,
+      "thread_root_id": "2114759565325565998",
+      "author": {
+        "platform_id": null,
+        "display_name": "gaiofact",
+        "username": "gaiofact",
+        "profile_url": "https://x.com/gaiofact"
+      },
+      "text": "Que cara de bosta linda de se ver",
+      "created_at": "2026-10-26T16:42:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.meowing.monster/gaiofact/status/2114759565325565998#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 8,
+        "retweet_count": 66,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114759565325565998",
+        "text": "Que cara de bosta linda de se ver",
+        "author_username": "gaiofact",
+        "author_name": "gaiofact",
+        "created_at": "2026-10-26T16:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gaiofact/status/2114759565325565998#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 8,
+          "retweet_count": 66,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 33,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115230935788724281",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115230935788724281",
+      "parent_post_id": null,
+      "thread_root_id": "2115230935788724281",
+      "author": {
+        "platform_id": null,
+        "display_name": "Rconstantino",
+        "username": "Rconstantino",
+        "profile_url": "https://x.com/Rconstantino"
+      },
+      "text": "Foco total nisso. E ai de quem, de \"direita\", pregar voto útil no Álcool Lumbre em troca de comissões! Vou até o Texas ou a Austrália para dar um cascudo...",
+      "created_at": "2026-10-27T23:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/Rconstantino/status/2115230935788724281#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 7,
+        "retweet_count": 32,
+        "quote_count": 171
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "direita"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115230935788724281",
+        "text": "Foco total nisso. E ai de quem, de \"direita\", pregar voto útil no Álcool Lumbre em troca de comissões! Vou até o Texas ou a Austrália para dar um cascudo...",
+        "author_username": "Rconstantino",
+        "author_name": "Rconstantino",
+        "created_at": "2026-10-27T23:55:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Rconstantino/status/2115230935788724281#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 7,
+          "retweet_count": 32,
+          "quote_count": 171
+        }
+      },
+      "normalized": {
+        "text_length": 156,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115213558686585303",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115213558686585303",
+      "parent_post_id": null,
+      "thread_root_id": "2115213558686585303",
+      "author": {
+        "platform_id": null,
+        "display_name": "leandroruschel",
+        "username": "leandroruschel",
+        "profile_url": "https://x.com/leandroruschel"
+      },
+      "text": "Alguém ainda não entendo o que está acontecendo?",
+      "created_at": "2026-10-27T22:46:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/leandroruschel/status/2115213558686585303#m",
+      "metrics": {
+        "like_count": 34,
+        "reply_count": 89,
+        "retweet_count": 585,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115213558686585303",
+        "text": "Alguém ainda não entendo o que está acontecendo?",
+        "author_username": "leandroruschel",
+        "author_name": "leandroruschel",
+        "created_at": "2026-10-27T22:46:00+00:00",
+        "permalink": "https://nitter.mie.foundation/leandroruschel/status/2115213558686585303#m",
+        "metrics": {
+          "like_count": 34,
+          "reply_count": 89,
+          "retweet_count": 585,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 48,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114852627448025251",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114852627448025251",
+      "parent_post_id": null,
+      "thread_root_id": "2114852627448025251",
+      "author": {
+        "platform_id": null,
+        "display_name": "jairmearrependi",
+        "username": "jairmearrependi",
+        "profile_url": "https://x.com/jairmearrependi"
+      },
+      "text": "Zambelli de BH",
+      "created_at": "2026-10-26T22:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/jairmearrependi/status/2114852627448025251#m",
+      "metrics": {
+        "like_count": 26,
+        "reply_count": 37,
+        "retweet_count": 284,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114852627448025251",
+        "text": "Zambelli de BH",
+        "author_username": "jairmearrependi",
+        "author_name": "jairmearrependi",
+        "created_at": "2026-10-26T22:52:00+00:00",
+        "permalink": "https://nitter.mie.foundation/jairmearrependi/status/2114852627448025251#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 37,
+          "retweet_count": 284,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 14,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114846044370636848",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114846044370636848",
+      "parent_post_id": null,
+      "thread_root_id": "2114846044370636848",
+      "author": {
+        "platform_id": null,
+        "display_name": "cortezpsol",
+        "username": "cortezpsol",
+        "profile_url": "https://x.com/cortezpsol"
+      },
+      "text": "Ora, ora.",
+      "created_at": "2026-10-26T22:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/cortezpsol/status/2114846044370636848#m",
+      "metrics": {
+        "like_count": 102,
+        "reply_count": 176,
+        "retweet_count": 4,
+        "quote_count": 18
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114846044370636848",
+        "text": "Ora, ora.",
+        "author_username": "cortezpsol",
+        "author_name": "cortezpsol",
+        "created_at": "2026-10-26T22:26:00+00:00",
+        "permalink": "https://nitter.mie.foundation/cortezpsol/status/2114846044370636848#m",
+        "metrics": {
+          "like_count": 102,
+          "reply_count": 176,
+          "retweet_count": 4,
+          "quote_count": 18
+        }
+      },
+      "normalized": {
+        "text_length": 9,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114832026679611397",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114832026679611397",
+      "parent_post_id": null,
+      "thread_root_id": "2114832026679611397",
+      "author": {
+        "platform_id": null,
+        "display_name": "jardelito",
+        "username": "jardelito",
+        "profile_url": "https://x.com/jardelito"
+      },
+      "text": "🚨 URGENTE! 🚨\n\nO Ministro André Mendonça ACEITOU o pedido do deputado Nikolas Ferreira (PL) em co-autoria com Flávio Bolsonaro (PL) e mais outros 35 deputados e senadores e informou que TEREMOS NOVAS ELEIÇÕES! Espalhem essa informação para todos!\n\nA data será OUTUBRO DE 2030!",
+      "created_at": "2026-10-26T21:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/jardelito/status/2114832026679611397#m",
+      "metrics": {
+        "like_count": 80,
+        "reply_count": 97,
+        "retweet_count": 158,
+        "quote_count": 733
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "bolsonaro",
+        "pl"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114832026679611397",
+        "text": "🚨 URGENTE! 🚨\n\nO Ministro André Mendonça ACEITOU o pedido do deputado Nikolas Ferreira (PL) em co-autoria com Flávio Bolsonaro (PL) e mais outros 35 deputados e senadores e informou que TEREMOS NOVAS ELEIÇÕES! Espalhem essa informação para todos!\n\nA data será OUTUBRO DE 2030!",
+        "author_username": "jardelito",
+        "author_name": "jardelito",
+        "created_at": "2026-10-26T21:30:00+00:00",
+        "permalink": "https://nitter.mie.foundation/jardelito/status/2114832026679611397#m",
+        "metrics": {
+          "like_count": 80,
+          "reply_count": 97,
+          "retweet_count": 158,
+          "quote_count": 733
+        }
+      },
+      "normalized": {
+        "text_length": 275,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114831634583445971",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114831634583445971",
+      "parent_post_id": null,
+      "thread_root_id": "2114831634583445971",
+      "author": {
+        "platform_id": null,
+        "display_name": "2026Enquetes",
+        "username": "2026Enquetes",
+        "profile_url": "https://x.com/2026Enquetes"
+      },
+      "text": "🚨😱 Renan Santos diz que Nikolas Ferreira tem o demônio no coração.\n\n\"Ele tem língua do capeta e usa de maneira muito habilidosa para enganar e levar as pessoas ao erro\".",
+      "created_at": "2026-10-26T21:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/2026Enquetes/status/2114831634583445971#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 21,
+        "retweet_count": 106,
+        "quote_count": 962
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114831634583445971",
+        "text": "🚨😱 Renan Santos diz que Nikolas Ferreira tem o demônio no coração.\n\n\"Ele tem língua do capeta e usa de maneira muito habilidosa para enganar e levar as pessoas ao erro\".",
+        "author_username": "2026Enquetes",
+        "author_name": "2026Enquetes",
+        "created_at": "2026-10-26T21:28:00+00:00",
+        "permalink": "https://nitter.mie.foundation/2026Enquetes/status/2114831634583445971#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 21,
+          "retweet_count": 106,
+          "quote_count": 962
+        }
+      },
+      "normalized": {
+        "text_length": 169,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114821439417397753",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114821439417397753",
+      "parent_post_id": null,
+      "thread_root_id": "2114821439417397753",
+      "author": {
+        "platform_id": null,
+        "display_name": "svoigg",
+        "username": "svoigg",
+        "profile_url": "https://x.com/svoigg"
+      },
+      "text": "Agora vocês vão ver todos esses caras da direita pulando desse barco furado q é esse sobrenome e começarem a movimentação p se candidatarem como nome da direita em 2030",
+      "created_at": "2026-10-26T20:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/svoigg/status/2114821439417397753#m",
+      "metrics": {
+        "like_count": 612,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 26
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "direita"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114821439417397753",
+        "text": "Agora vocês vão ver todos esses caras da direita pulando desse barco furado q é esse sobrenome e começarem a movimentação p se candidatarem como nome da direita em 2030",
+        "author_username": "svoigg",
+        "author_name": "svoigg",
+        "created_at": "2026-10-26T20:48:00+00:00",
+        "permalink": "https://nitter.mie.foundation/svoigg/status/2114821439417397753#m",
+        "metrics": {
+          "like_count": 612,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 26
+        }
+      },
+      "normalized": {
+        "text_length": 168,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114797613971091924",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114797613971091924",
+      "parent_post_id": null,
+      "thread_root_id": "2114797613971091924",
+      "author": {
+        "platform_id": null,
+        "display_name": "furor_uterino",
+        "username": "furor_uterino",
+        "profile_url": "https://x.com/furor_uterino"
+      },
+      "text": "errou o site irmao 4chan eh do outro lado",
+      "created_at": "2026-10-26T19:13:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/furor_uterino/status/2114797613971091924#m",
+      "metrics": {
+        "like_count": 122,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 11
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114797613971091924",
+        "text": "errou o site irmao 4chan eh do outro lado",
+        "author_username": "furor_uterino",
+        "author_name": "furor_uterino",
+        "created_at": "2026-10-26T19:13:00+00:00",
+        "permalink": "https://nitter.mie.foundation/furor_uterino/status/2114797613971091924#m",
+        "metrics": {
+          "like_count": 122,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 11
+        }
+      },
+      "normalized": {
+        "text_length": 41,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114557815058837658",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114557815058837658",
+      "parent_post_id": null,
+      "thread_root_id": "2114557815058837658",
+      "author": {
+        "platform_id": null,
+        "display_name": "lazarouai",
+        "username": "lazarouai",
+        "profile_url": "https://x.com/lazarouai"
+      },
+      "text": "eu sou um desses 11M, vai dormir nikolas",
+      "created_at": "2026-10-26T03:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/lazarouai/status/2114557815058837658#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 3,
+        "retweet_count": 40,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114557815058837658",
+        "text": "eu sou um desses 11M, vai dormir nikolas",
+        "author_username": "lazarouai",
+        "author_name": "lazarouai",
+        "created_at": "2026-10-26T03:20:00+00:00",
+        "permalink": "https://nitter.mie.foundation/lazarouai/status/2114557815058837658#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 3,
+          "retweet_count": 40,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 40,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114553782755557387",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114553782755557387",
+      "parent_post_id": null,
+      "thread_root_id": "2114553782755557387",
+      "author": {
+        "platform_id": null,
+        "display_name": "centralreality",
+        "username": "centralreality",
+        "profile_url": "https://x.com/centralreality"
+      },
+      "text": "tweets que encantam",
+      "created_at": "2026-10-26T03:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/centralreality/status/2114553782755557387#m",
+      "metrics": {
+        "like_count": 71,
+        "reply_count": 21,
+        "retweet_count": 1,
+        "quote_count": 9
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114553782755557387",
+        "text": "tweets que encantam",
+        "author_username": "centralreality",
+        "author_name": "centralreality",
+        "created_at": "2026-10-26T03:04:00+00:00",
+        "permalink": "https://nitter.mie.foundation/centralreality/status/2114553782755557387#m",
+        "metrics": {
+          "like_count": 71,
+          "reply_count": 21,
+          "retweet_count": 1,
+          "quote_count": 9
+        }
+      },
+      "normalized": {
+        "text_length": 19,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114551485510115531",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114551485510115531",
+      "parent_post_id": null,
+      "thread_root_id": "2114551485510115531",
+      "author": {
+        "platform_id": null,
+        "display_name": "NapoleonBonabot",
+        "username": "NapoleonBonabot",
+        "profile_url": "https://x.com/NapoleonBonabot"
+      },
+      "text": "Your choices are winning or winning. There is no turning back.",
+      "created_at": "2026-10-26T02:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/NapoleonBonabot/status/2114551485510115531#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 3,
+        "retweet_count": 41,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114551485510115531",
+        "text": "Your choices are winning or winning. There is no turning back.",
+        "author_username": "NapoleonBonabot",
+        "author_name": "NapoleonBonabot",
+        "created_at": "2026-10-26T02:55:00+00:00",
+        "permalink": "https://nitter.mie.foundation/NapoleonBonabot/status/2114551485510115531#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 3,
+          "retweet_count": 41,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 62,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114549983093596458",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114549983093596458",
+      "parent_post_id": null,
+      "thread_root_id": "2114549983093596458",
+      "author": {
+        "platform_id": null,
+        "display_name": "DigaoRoque",
+        "username": "DigaoRoque",
+        "profile_url": "https://x.com/DigaoRoque"
+      },
+      "text": "não entendo quem deseja coisas boas ao nikolas ferreira",
+      "created_at": "2026-10-26T02:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/DigaoRoque/status/2114549983093596458#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 3,
+        "retweet_count": 61,
+        "quote_count": 832
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114549983093596458",
+        "text": "não entendo quem deseja coisas boas ao nikolas ferreira",
+        "author_username": "DigaoRoque",
+        "author_name": "DigaoRoque",
+        "created_at": "2026-10-26T02:49:00+00:00",
+        "permalink": "https://nitter.mie.foundation/DigaoRoque/status/2114549983093596458#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 3,
+          "retweet_count": 61,
+          "quote_count": 832
+        }
+      },
+      "normalized": {
+        "text_length": 55,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114522544292458595",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114522544292458595",
+      "parent_post_id": null,
+      "thread_root_id": "2114522544292458595",
+      "author": {
+        "platform_id": null,
+        "display_name": "EnzoGrisalho",
+        "username": "EnzoGrisalho",
+        "profile_url": "https://x.com/EnzoGrisalho"
+      },
+      "text": "nikolas ferreira, pablo marçal, familia bolsonaro, neymar e aquele teu amigo mais burro da escola não vao conseguir dormir de tanto chorar \n\nimpossível nao ficar feliz",
+      "created_at": "2026-10-26T01:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/EnzoGrisalho/status/2114522544292458595#m",
+      "metrics": {
+        "like_count": 32,
+        "reply_count": 10,
+        "retweet_count": 936,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114522544292458595",
+        "text": "nikolas ferreira, pablo marçal, familia bolsonaro, neymar e aquele teu amigo mais burro da escola não vao conseguir dormir de tanto chorar \n\nimpossível nao ficar feliz",
+        "author_username": "EnzoGrisalho",
+        "author_name": "EnzoGrisalho",
+        "created_at": "2026-10-26T01:00:00+00:00",
+        "permalink": "https://nitter.mie.foundation/EnzoGrisalho/status/2114522544292458595#m",
+        "metrics": {
+          "like_count": 32,
+          "reply_count": 10,
+          "retweet_count": 936,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 167,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114521227972751788",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114521227972751788",
+      "parent_post_id": null,
+      "thread_root_id": "2114521227972751788",
+      "author": {
+        "platform_id": null,
+        "display_name": "vsfdcecilia",
+        "username": "vsfdcecilia",
+        "profile_url": "https://x.com/vsfdcecilia"
+      },
+      "text": "EU QUERO EDUARDA CAMPOPIANO, NIKOLAS FERREIRA, LUCAS PAVANATO E FLAVIO BOLSONARO NA CABEÇA DA MINHA PICA",
+      "created_at": "2026-10-26T00:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/vsfdcecilia/status/2114521227972751788#m",
+      "metrics": {
+        "like_count": 137,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "quote_count": 7
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114521227972751788",
+        "text": "EU QUERO EDUARDA CAMPOPIANO, NIKOLAS FERREIRA, LUCAS PAVANATO E FLAVIO BOLSONARO NA CABEÇA DA MINHA PICA",
+        "author_username": "vsfdcecilia",
+        "author_name": "vsfdcecilia",
+        "created_at": "2026-10-26T00:55:00+00:00",
+        "permalink": "https://nitter.mie.foundation/vsfdcecilia/status/2114521227972751788#m",
+        "metrics": {
+          "like_count": 137,
+          "reply_count": 0,
+          "retweet_count": 3,
+          "quote_count": 7
+        }
+      },
+      "normalized": {
+        "text_length": 104,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114520563800740023",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114520563800740023",
+      "parent_post_id": null,
+      "thread_root_id": "2114520563800740023",
+      "author": {
+        "platform_id": null,
+        "display_name": "ocaionomichi",
+        "username": "ocaionomichi",
+        "profile_url": "https://x.com/ocaionomichi"
+      },
+      "text": "alguém sabe onde tá @nikolas_dm @lucaspavanato @DudaCampopiano? \n\nsumiram, tô preocupado, sumiu geral 🥺",
+      "created_at": "2026-10-26T00:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/ocaionomichi/status/2114520563800740023#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 24,
+        "retweet_count": 152,
+        "quote_count": 893
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114520563800740023",
+        "text": "alguém sabe onde tá @nikolas_dm @lucaspavanato @DudaCampopiano? \n\nsumiram, tô preocupado, sumiu geral 🥺",
+        "author_username": "ocaionomichi",
+        "author_name": "ocaionomichi",
+        "created_at": "2026-10-26T00:52:00+00:00",
+        "permalink": "https://nitter.mie.foundation/ocaionomichi/status/2114520563800740023#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 24,
+          "retweet_count": 152,
+          "quote_count": 893
+        }
+      },
+      "normalized": {
+        "text_length": 103,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114520401779019829",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114520401779019829",
+      "parent_post_id": null,
+      "thread_root_id": "2114520401779019829",
+      "author": {
+        "platform_id": null,
+        "display_name": "gatinhopsspss",
+        "username": "gatinhopsspss",
+        "profile_url": "https://x.com/gatinhopsspss"
+      },
+      "text": "FRACASSADO KKKKKKKKKKKK",
+      "created_at": "2026-10-26T00:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/gatinhopsspss/status/2114520401779019829#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "quote_count": 89
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114520401779019829",
+        "text": "FRACASSADO KKKKKKKKKKKK",
+        "author_username": "gatinhopsspss",
+        "author_name": "gatinhopsspss",
+        "created_at": "2026-10-26T00:52:00+00:00",
+        "permalink": "https://nitter.mie.foundation/gatinhopsspss/status/2114520401779019829#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 3,
+          "quote_count": 89
+        }
+      },
+      "normalized": {
+        "text_length": 23,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114520167803998279",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114520167803998279",
+      "parent_post_id": null,
+      "thread_root_id": "2114520167803998279",
+      "author": {
+        "platform_id": null,
+        "display_name": "lazarouai",
+        "username": "lazarouai",
+        "profile_url": "https://x.com/lazarouai"
+      },
+      "text": "ele ainda ta esperando? sumiu...",
+      "created_at": "2026-10-26T00:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/lazarouai/status/2114520167803998279#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 13,
+        "retweet_count": 355,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114520167803998279",
+        "text": "ele ainda ta esperando? sumiu...",
+        "author_username": "lazarouai",
+        "author_name": "lazarouai",
+        "created_at": "2026-10-26T00:51:00+00:00",
+        "permalink": "https://nitter.mie.foundation/lazarouai/status/2114520167803998279#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 13,
+          "retweet_count": 355,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 32,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114518434746925125",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114518434746925125",
+      "parent_post_id": null,
+      "thread_root_id": "2114518434746925125",
+      "author": {
+        "platform_id": null,
+        "display_name": "DudaSalabert",
+        "username": "DudaSalabert",
+        "profile_url": "https://x.com/DudaSalabert"
+      },
+      "text": "Mais um bolsonarista pilantra preso no ano que vem !",
+      "created_at": "2026-10-26T00:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/DudaSalabert/status/2114518434746925125#m",
+      "metrics": {
+        "like_count": 55,
+        "reply_count": 212,
+        "retweet_count": 2,
+        "quote_count": 12
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114518434746925125",
+        "text": "Mais um bolsonarista pilantra preso no ano que vem !",
+        "author_username": "DudaSalabert",
+        "author_name": "DudaSalabert",
+        "created_at": "2026-10-26T00:44:00+00:00",
+        "permalink": "https://nitter.mie.foundation/DudaSalabert/status/2114518434746925125#m",
+        "metrics": {
+          "like_count": 55,
+          "reply_count": 212,
+          "retweet_count": 2,
+          "quote_count": 12
+        }
+      },
+      "normalized": {
+        "text_length": 52,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114518233726546109",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114518233726546109",
+      "parent_post_id": null,
+      "thread_root_id": "2114518233726546109",
+      "author": {
+        "platform_id": null,
+        "display_name": "NinnaSanthiago",
+        "username": "NinnaSanthiago",
+        "profile_url": "https://x.com/NinnaSanthiago"
+      },
+      "text": "NIKOLAS FERREIRA 😂😂😂😂😂😂😂😂😂😂😂😂😂 #Eleições2026",
+      "created_at": "2026-10-26T00:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/NinnaSanthiago/status/2114518233726546109#m",
+      "metrics": {
+        "like_count": 832,
+        "reply_count": 1,
+        "retweet_count": 2,
+        "quote_count": 7
+      },
+      "matched_terms": [
+        "Nikolas Ferreira"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114518233726546109",
+        "text": "NIKOLAS FERREIRA 😂😂😂😂😂😂😂😂😂😂😂😂😂 #Eleições2026",
+        "author_username": "NinnaSanthiago",
+        "author_name": "NinnaSanthiago",
+        "created_at": "2026-10-26T00:43:00+00:00",
+        "permalink": "https://nitter.mie.foundation/NinnaSanthiago/status/2114518233726546109#m",
+        "metrics": {
+          "like_count": 832,
+          "reply_count": 1,
+          "retweet_count": 2,
+          "quote_count": 7
+        }
+      },
+      "normalized": {
+        "text_length": 44,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114514079423295909",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514079423295909",
+      "parent_post_id": null,
+      "thread_root_id": "2114514079423295909",
+      "author": {
+        "platform_id": null,
+        "display_name": "GiiiLaisa",
+        "username": "GiiiLaisa",
+        "profile_url": "https://x.com/GiiiLaisa"
+      },
+      "text": "se a família Bolsonaro está triste, eu estou feliz\nse o Nikolas está triste, eu estou feliz\nse o Tarcísio está triste, eu estou feliz\nse o Neymar está triste, eu estou feliz\n\nFAZ O L CARALHOOOOO\n\n#LulaReeleito #Eleições2026",
+      "created_at": "2026-10-26T00:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T21:27:02-03:00",
+      "permalink": "https://nitter.mie.foundation/GiiiLaisa/status/2114514079423295909#m",
+      "metrics": {
+        "like_count": 235,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Nikolas Ferreira",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "nikolasferreira",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "pagination": {
+        "pages_collected": 41,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114514079423295909",
+        "text": "se a família Bolsonaro está triste, eu estou feliz\nse o Nikolas está triste, eu estou feliz\nse o Tarcísio está triste, eu estou feliz\nse o Neymar está triste, eu estou feliz\n\nFAZ O L CARALHOOOOO\n\n#LulaReeleito #Eleições2026",
+        "author_username": "GiiiLaisa",
+        "author_name": "GiiiLaisa",
+        "created_at": "2026-10-26T00:26:00+00:00",
+        "permalink": "https://nitter.mie.foundation/GiiiLaisa/status/2114514079423295909#m",
+        "metrics": {
+          "like_count": 235,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 223,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "term_group_id": "nikolas_ferreira",
+    "query": "from:nikolas_dm",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+    "collected_at": "2026-10-27T21:33:09-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 2,
+      "records_total": 2,
+      "skipped_duplicate": 872
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2115217336718225420",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2115217336718225420",
+      "post_id": "2115208773707214865",
+      "parent_comment_id": "2115208773707214865",
+      "thread_root_id": "2115208773707214865",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "pedrorousseff",
+        "username": "pedrorousseff",
+        "profile_url": null
+      },
+      "text": "Valeu, Camisa 10 do Lula 👍",
+      "created_at": "2026-10-27T23:01:00+00:00",
+      "collected_at": "2026-10-27T21:33:09-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/pedrorousseff/status/2115217336718225420#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "from:nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2115217336718225420",
+        "text": "Valeu, Camisa 10 do Lula 👍",
+        "author_username": "pedrorousseff",
+        "author_name": "pedrorousseff",
+        "created_at": "2026-10-27T23:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pedrorousseff/status/2115217336718225420#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2115208773707214865",
+        "parent_comment_id": "2115208773707214865",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 26,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114492997597372461",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114492997597372461",
+      "post_id": "2114492412898783308",
+      "parent_comment_id": "2114492412898783308",
+      "thread_root_id": "2114492412898783308",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "M4theuxs",
+        "username": "M4theuxs",
+        "profile_url": null
+      },
+      "text": "Verme golpista debocha do povo pq sabe que já tramaram todo o golpe",
+      "created_at": "2026-10-25T23:03:00+00:00",
+      "collected_at": "2026-10-27T21:33:09-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/M4theuxs/status/2114492997597372461#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "profile_timeline",
+        "query": "from:nikolas_dm",
+        "term_group_id": "nikolas_ferreira",
+        "term_label": "Nikolas Ferreira",
+        "run_id": "50f1969e-9e7d-4834-a15c-26093aeb356b",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": null,
+        "search_place_country": null
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114492997597372461",
+        "text": "Verme golpista debocha do povo pq sabe que já tramaram todo o golpe",
+        "author_username": "M4theuxs",
+        "author_name": "M4theuxs",
+        "created_at": "2026-10-25T23:03:00+00:00",
+        "permalink": "https://nitter.meowing.monster/M4theuxs/status/2114492997597372461#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114492412898783308",
+        "parent_comment_id": "2114492412898783308",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 67,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
